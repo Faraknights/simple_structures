@@ -1,0 +1,653 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:50:48",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:50:51",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:50:51",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:50:52",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:50:55",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:50:56",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:50:56",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:51:34",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:51:34",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:51:35",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:51:35",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:51:39",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 22:51:40",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    }
+  ]
+}
