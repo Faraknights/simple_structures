@@ -1,0 +1,476 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 10:48:50",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube"
+      ],
+      "Timestamp": "2024-04-08 10:49:15",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube"
+      ],
+      "Timestamp": "2024-04-08 10:49:19",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube"
+      ],
+      "Timestamp": "2024-04-08 10:49:19",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube"
+      ],
+      "Timestamp": "2024-04-08 10:49:20",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube"
+      ],
+      "Timestamp": "2024-04-08 10:49:20",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube"
+      ],
+      "Timestamp": "2024-04-08 10:49:21",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube"
+      ],
+      "Timestamp": "2024-04-08 10:49:21",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube"
+      ],
+      "Timestamp": "2024-04-08 10:49:22",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube"
+      ],
+      "Timestamp": "2024-04-08 10:49:22",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube",
+        "<Builder> ok"
+      ],
+      "Timestamp": "2024-04-08 10:49:30",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Ok, this is a blue 2x2 cube",
+        "<Builder> ok",
+        "<Architect> great !"
+      ],
+      "Timestamp": "2024-04-08 10:49:37",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    }
+  ]
+}

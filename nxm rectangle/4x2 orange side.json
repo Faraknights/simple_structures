@@ -1,0 +1,409 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 16:24:59",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange"
+      ],
+      "Timestamp": "2024-04-08 16:26:43",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange"
+      ],
+      "Timestamp": "2024-04-08 16:26:49",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange"
+      ],
+      "Timestamp": "2024-04-08 16:26:51",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange"
+      ],
+      "Timestamp": "2024-04-08 16:26:52",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange"
+      ],
+      "Timestamp": "2024-04-08 16:26:52",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange"
+      ],
+      "Timestamp": "2024-04-08 16:26:53",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange"
+      ],
+      "Timestamp": "2024-04-08 16:26:55",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange"
+      ],
+      "Timestamp": "2024-04-08 16:26:55",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange"
+      ],
+      "Timestamp": "2024-04-08 16:26:56",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a rectangle 4 blocks long by 2 blocks high in orange",
+        "<Architect> great"
+      ],
+      "Timestamp": "2024-04-08 16:27:00",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    }
+  ]
+}

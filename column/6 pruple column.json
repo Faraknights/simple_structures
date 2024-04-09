@@ -1,0 +1,272 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-09 00:24:53",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Place a purple column of 6 in the center"
+      ],
+      "Timestamp": "2024-04-09 00:25:17",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Place a purple column of 6 in the center"
+      ],
+      "Timestamp": "2024-04-09 00:25:21",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Place a purple column of 6 in the center"
+      ],
+      "Timestamp": "2024-04-09 00:25:22",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Place a purple column of 6 in the center"
+      ],
+      "Timestamp": "2024-04-09 00:25:22",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Place a purple column of 6 in the center"
+      ],
+      "Timestamp": "2024-04-09 00:25:23",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Place a purple column of 6 in the center"
+      ],
+      "Timestamp": "2024-04-09 00:25:23",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Place a purple column of 6 in the center"
+      ],
+      "Timestamp": "2024-04-09 00:25:24",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Place a purple column of 6 in the center",
+        "<Architect> That's it"
+      ],
+      "Timestamp": "2024-04-09 00:25:54",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-09 00:17:20",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Hi, start with an orange rectangle on the floor flat 3 blocks long 2 block wide"
+      ],
+      "Timestamp": "2024-04-09 00:17:59",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Hi, start with an orange rectangle on the floor flat 3 blocks long 2 block wide"
+      ],
+      "Timestamp": "2024-04-09 00:18:06",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Hi, start with an orange rectangle on the floor flat 3 blocks long 2 block wide"
+      ],
+      "Timestamp": "2024-04-09 00:18:07",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Hi, start with an orange rectangle on the floor flat 3 blocks long 2 block wide"
+      ],
+      "Timestamp": "2024-04-09 00:18:07",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Hi, start with an orange rectangle on the floor flat 3 blocks long 2 block wide"
+      ],
+      "Timestamp": "2024-04-09 00:18:08",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Hi, start with an orange rectangle on the floor flat 3 blocks long 2 block wide"
+      ],
+      "Timestamp": "2024-04-09 00:18:08",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Hi, start with an orange rectangle on the floor flat 3 blocks long 2 block wide"
+      ],
+      "Timestamp": "2024-04-09 00:18:09",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Hi, start with an orange rectangle on the floor flat 3 blocks long 2 block wide",
+        "<Builder> Like this ?"
+      ],
+      "Timestamp": "2024-04-09 00:18:13",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Hi, start with an orange rectangle on the floor flat 3 blocks long 2 block wide",
+        "<Builder> Like this ?",
+        "<Architect> Yes, perfect"
+      ],
+      "Timestamp": "2024-04-09 00:18:19",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    }
+  ]
+}

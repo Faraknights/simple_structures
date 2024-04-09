@@ -1,0 +1,214 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-09 01:06:53",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> now build a 5 blocks long row in purple"
+      ],
+      "Timestamp": "2024-04-09 01:07:06",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> now build a 5 blocks long row in purple"
+      ],
+      "Timestamp": "2024-04-09 01:07:10",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> now build a 5 blocks long row in purple"
+      ],
+      "Timestamp": "2024-04-09 01:07:10",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> now build a 5 blocks long row in purple"
+      ],
+      "Timestamp": "2024-04-09 01:07:10",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> now build a 5 blocks long row in purple"
+      ],
+      "Timestamp": "2024-04-09 01:07:11",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> now build a 5 blocks long row in purple"
+      ],
+      "Timestamp": "2024-04-09 01:07:11",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> now build a 5 blocks long row in purple",
+        "<Architect> cool"
+      ],
+      "Timestamp": "2024-04-09 01:07:14",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    }
+  ]
+}

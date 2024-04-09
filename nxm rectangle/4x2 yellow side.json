@@ -1,0 +1,476 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-08 16:55:46",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway"
+      ],
+      "Timestamp": "2024-04-08 16:56:22",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway"
+      ],
+      "Timestamp": "2024-04-08 16:56:28",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway"
+      ],
+      "Timestamp": "2024-04-08 16:56:28",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway"
+      ],
+      "Timestamp": "2024-04-08 16:56:28",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway"
+      ],
+      "Timestamp": "2024-04-08 16:56:29",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway"
+      ],
+      "Timestamp": "2024-04-08 16:56:31",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway"
+      ],
+      "Timestamp": "2024-04-08 16:56:31",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway"
+      ],
+      "Timestamp": "2024-04-08 16:56:32",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway"
+      ],
+      "Timestamp": "2024-04-08 16:56:32",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway",
+        "<Builder> Like this ?"
+      ],
+      "Timestamp": "2024-04-08 16:56:43",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> can you build a reactangle in yellow, 4 by 2 sideway",
+        "<Builder> Like this ?",
+        "<Architect> yes, great"
+      ],
+      "Timestamp": "2024-04-08 16:56:48",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 2,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    }
+  ]
+}
