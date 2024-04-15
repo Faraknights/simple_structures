@@ -1,0 +1,488 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-14 23:06:56",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:06:57",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:07:09",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:07:10",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:07:10",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:07:10",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:07:10",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:07:11",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:07:11",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:07:11",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board"
+            ],
+            "Timestamp": "2024-04-14 23:07:12",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 9,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 9 orange blocks at the middle of the board",
+                "<Architect> alright"
+            ],
+            "Timestamp": "2024-04-14 23:07:18",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 9,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,488 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 10:36:00",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:02",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:08",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:09",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:09",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:10",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:10",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 4,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:11",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 4,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:12",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 4,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:12",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 4,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:36:12",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 4,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -4,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a row of 9 purple blocks 1 block away from the center of the grid",
+                "<Architect> Yes !"
+            ],
+            "Timestamp": "2024-04-12 10:36:20",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 4,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -4,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        }
+    ]
+}

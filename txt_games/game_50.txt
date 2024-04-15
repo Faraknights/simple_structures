@@ -1,0 +1,7 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> make a row of 3 blue blocks on an edge
+4 : [Builder puts down a blue block at X:5 Y:1 Z:0]
+6 : [Builder puts down a blue block at X:5 Y:1 Z:-1]
+8 : [Builder puts down a blue block at X:5 Y:1 Z:-2]
+9 : <Architect> great

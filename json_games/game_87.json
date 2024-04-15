@@ -1,0 +1,272 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-15 00:32:18",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 6 red blocks near an edge"
+            ],
+            "Timestamp": "2024-04-15 00:32:21",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 6 red blocks near an edge"
+            ],
+            "Timestamp": "2024-04-15 00:32:27",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 6 red blocks near an edge"
+            ],
+            "Timestamp": "2024-04-15 00:32:28",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 6 red blocks near an edge"
+            ],
+            "Timestamp": "2024-04-15 00:32:28",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 6 red blocks near an edge"
+            ],
+            "Timestamp": "2024-04-15 00:32:29",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 4,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 6 red blocks near an edge"
+            ],
+            "Timestamp": "2024-04-15 00:32:29",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 4,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 5,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 6 red blocks near an edge"
+            ],
+            "Timestamp": "2024-04-15 00:32:30",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 4,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 5,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 6,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 6 red blocks near an edge",
+                "<Architect> Alright, good job"
+            ],
+            "Timestamp": "2024-04-15 00:32:36",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 4,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 5,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -2,
+                    "Y": 6,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        }
+    ]
+}

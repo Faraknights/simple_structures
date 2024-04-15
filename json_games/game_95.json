@@ -1,0 +1,82 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-15 00:36:42",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a vertical line using 2 purple blocks in a corner of the board"
+            ],
+            "Timestamp": "2024-04-15 00:36:44",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a vertical line using 2 purple blocks in a corner of the board"
+            ],
+            "Timestamp": "2024-04-15 00:36:51",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a vertical line using 2 purple blocks in a corner of the board"
+            ],
+            "Timestamp": "2024-04-15 00:36:52",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a vertical line using 2 purple blocks in a corner of the board",
+                "<Architect> okay"
+            ],
+            "Timestamp": "2024-04-15 00:36:56",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        }
+    ]
+}

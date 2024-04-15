@@ -1,0 +1,409 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 10:50:39",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:50:49",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:50:58",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:50:59",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:51:00",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:51:01",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:51:02",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:51:02",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:51:03",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:51:03",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a pillar of 8 orange blocks 2 blocks away from the middle of the grid",
+                "<Architect> awesome"
+            ],
+            "Timestamp": "2024-04-12 10:51:10",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        }
+    ]
+}

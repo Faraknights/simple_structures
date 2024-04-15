@@ -1,0 +1,488 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 10:57:03",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:04",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:16",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:17",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:17",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:17",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:17",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:18",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:18",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:18",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 8,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board"
+            ],
+            "Timestamp": "2024-04-12 10:57:19",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 8,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 9,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board",
+                "<Architect> awesome, yes"
+            ],
+            "Timestamp": "2024-04-12 10:57:30",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 8,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 9,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        }
+    ]
+}

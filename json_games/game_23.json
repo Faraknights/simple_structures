@@ -1,0 +1,409 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 10:54:30",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center"
+            ],
+            "Timestamp": "2024-04-12 10:54:32",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center"
+            ],
+            "Timestamp": "2024-04-12 10:54:45",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center"
+            ],
+            "Timestamp": "2024-04-12 10:54:46",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center"
+            ],
+            "Timestamp": "2024-04-12 10:54:46",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center"
+            ],
+            "Timestamp": "2024-04-12 10:54:46",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center"
+            ],
+            "Timestamp": "2024-04-12 10:54:46",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center"
+            ],
+            "Timestamp": "2024-04-12 10:54:47",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center"
+            ],
+            "Timestamp": "2024-04-12 10:54:47",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center"
+            ],
+            "Timestamp": "2024-04-12 10:54:47",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a yellow pillar with 8 blocks near the center",
+                "<Architect> alright"
+            ],
+            "Timestamp": "2024-04-12 10:54:58",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        }
+    ]
+}

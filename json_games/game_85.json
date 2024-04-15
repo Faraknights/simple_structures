@@ -1,0 +1,214 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-15 00:31:40",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put a purple tower with 5 blocks in the center of the board"
+            ],
+            "Timestamp": "2024-04-15 00:31:45",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put a purple tower with 5 blocks in the center of the board"
+            ],
+            "Timestamp": "2024-04-15 00:31:50",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put a purple tower with 5 blocks in the center of the board"
+            ],
+            "Timestamp": "2024-04-15 00:31:50",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put a purple tower with 5 blocks in the center of the board"
+            ],
+            "Timestamp": "2024-04-15 00:31:50",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put a purple tower with 5 blocks in the center of the board"
+            ],
+            "Timestamp": "2024-04-15 00:31:50",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put a purple tower with 5 blocks in the center of the board"
+            ],
+            "Timestamp": "2024-04-15 00:31:51",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put a purple tower with 5 blocks in the center of the board",
+                "<Architect> ok nice "
+            ],
+            "Timestamp": "2024-04-15 00:31:55",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        }
+    ]
+}

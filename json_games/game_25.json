@@ -1,0 +1,214 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 10:57:53",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 5 purple blocks 1 space away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:57:55",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 5 purple blocks 1 space away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:58:03",
+            "BlocksInGrid": [
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 5 purple blocks 1 space away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:58:04",
+            "BlocksInGrid": [
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 5 purple blocks 1 space away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:58:04",
+            "BlocksInGrid": [
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 5 purple blocks 1 space away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:58:04",
+            "BlocksInGrid": [
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 5 purple blocks 1 space away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:58:05",
+            "BlocksInGrid": [
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place a pillar of 5 purple blocks 1 space away from the middle",
+                "<Architect> ya, nice"
+            ],
+            "Timestamp": "2024-04-12 10:58:09",
+            "BlocksInGrid": [
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        }
+    ]
+}

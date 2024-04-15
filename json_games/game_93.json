@@ -1,0 +1,119 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-15 00:36:00",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 orange blocks in a stack in the center of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:36:10",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 orange blocks in a stack in the center of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:36:13",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 orange blocks in a stack in the center of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:36:13",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 orange blocks in a stack in the center of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:36:14",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 orange blocks in a stack in the center of the grid",
+                "<Architect> ok"
+            ],
+            "Timestamp": "2024-04-15 00:36:16",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        }
+    ]
+}

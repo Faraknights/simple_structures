@@ -1,0 +1,7 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> put 3 purple blocks in a diagonal line around the center of the board
+4 : [Builder puts down a purple block at X:1 Y:1 Z:1]
+6 : [Builder puts down a purple block at X:0 Y:1 Z:0]
+8 : [Builder puts down a purple block at X:-1 Y:1 Z:-1]
+9 : <Architect> Yes perfect ! 

@@ -1,0 +1,8 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> put a yellow row with 4 blocks near an edge
+4 : [Builder puts down a yellow block at X:-5 Y:1 Z:-1]
+6 : [Builder puts down a yellow block at X:-5 Y:1 Z:0]
+8 : [Builder puts down a yellow block at X:-5 Y:1 Z:1]
+10 : [Builder puts down a yellow block at X:-5 Y:1 Z:2]
+11 : <Architect> okay

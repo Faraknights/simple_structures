@@ -1,0 +1,8 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> create a vertical line using 4 red blocks in the center
+4 : [Builder puts down a red block at X:0 Y:1 Z:0]
+6 : [Builder puts down a red block at X:0 Y:2 Z:0]
+8 : [Builder puts down a red block at X:0 Y:3 Z:0]
+10 : [Builder puts down a red block at X:0 Y:4 Z:0]
+11 : <Architect> ok

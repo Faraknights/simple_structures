@@ -1,0 +1,337 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 13:44:51",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a row of 7 yellow blocks near the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:44:52",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a row of 7 yellow blocks near the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:44:56",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a row of 7 yellow blocks near the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:44:56",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a row of 7 yellow blocks near the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:44:56",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a row of 7 yellow blocks near the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:44:57",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a row of 7 yellow blocks near the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:44:57",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a row of 7 yellow blocks near the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:44:58",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a row of 7 yellow blocks near the center of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:44:58",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a row of 7 yellow blocks near the center of the grid",
+                "<Architect> alright"
+            ],
+            "Timestamp": "2024-04-12 13:45:09",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 3,
+                    "Type": "wool",
+                    "Colour": "YELLOW"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,337 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-14 23:10:09",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 7 orange blocks in a stack near an edge of the board"
+            ],
+            "Timestamp": "2024-04-14 23:10:11",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 7 orange blocks in a stack near an edge of the board"
+            ],
+            "Timestamp": "2024-04-14 23:10:16",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 7 orange blocks in a stack near an edge of the board"
+            ],
+            "Timestamp": "2024-04-14 23:10:18",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 7 orange blocks in a stack near an edge of the board"
+            ],
+            "Timestamp": "2024-04-14 23:10:18",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 7 orange blocks in a stack near an edge of the board"
+            ],
+            "Timestamp": "2024-04-14 23:10:18",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 7 orange blocks in a stack near an edge of the board"
+            ],
+            "Timestamp": "2024-04-14 23:10:19",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 5,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 7 orange blocks in a stack near an edge of the board"
+            ],
+            "Timestamp": "2024-04-14 23:10:19",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 5,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 6,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 7 orange blocks in a stack near an edge of the board"
+            ],
+            "Timestamp": "2024-04-14 23:10:20",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 5,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 6,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 7,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 7 orange blocks in a stack near an edge of the board",
+                "<Architect> yes"
+            ],
+            "Timestamp": "2024-04-14 23:10:30",
+            "BlocksInGrid": [
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 4,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 5,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 6,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 2,
+                    "Y": 7,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        }
+    ]
+}

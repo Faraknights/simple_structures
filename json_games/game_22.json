@@ -1,0 +1,163 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 10:53:51",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a green vertical line by stacking 4 blocks 2 spaces away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:54:01",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a green vertical line by stacking 4 blocks 2 spaces away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:54:17",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a green vertical line by stacking 4 blocks 2 spaces away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:54:17",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a green vertical line by stacking 4 blocks 2 spaces away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:54:18",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a green vertical line by stacking 4 blocks 2 spaces away from the middle"
+            ],
+            "Timestamp": "2024-04-12 10:54:20",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a green vertical line by stacking 4 blocks 2 spaces away from the middle",
+                "<Architect> awesome"
+            ],
+            "Timestamp": "2024-04-12 10:54:24",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        }
+    ]
+}

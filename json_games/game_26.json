@@ -1,0 +1,119 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 10:58:49",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a green tower with 3 blocks on a corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:58:51",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a green tower with 3 blocks on a corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:58:57",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a green tower with 3 blocks on a corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:58:57",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a green tower with 3 blocks on a corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 10:58:58",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a green tower with 3 blocks on a corner of the grid",
+                "<Architect> cool"
+            ],
+            "Timestamp": "2024-04-12 10:59:30",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": 5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        }
+    ]
+}

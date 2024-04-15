@@ -1,0 +1,10 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> put a tower of 6 blue blocks on a corner
+4 : [Builder puts down a blue block at X:5 Y:1 Z:-5]
+6 : [Builder puts down a blue block at X:5 Y:2 Z:-5]
+8 : [Builder puts down a blue block at X:5 Y:3 Z:-5]
+10 : [Builder puts down a blue block at X:5 Y:4 Z:-5]
+12 : [Builder puts down a blue block at X:5 Y:5 Z:-5]
+14 : [Builder puts down a blue block at X:5 Y:6 Z:-5]
+15 : <Architect> great

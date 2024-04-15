@@ -1,0 +1,7 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> place 3 orange blocks in a horizontal line 2 blocks away from the center of the grid
+4 : [Builder puts down a orange block at X:-1 Y:1 Z:2]
+6 : [Builder puts down a orange block at X:0 Y:1 Z:2]
+8 : [Builder puts down a orange block at X:1 Y:1 Z:2]
+9 : <Architect> Looks great to me

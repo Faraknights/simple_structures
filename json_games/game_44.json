@@ -1,0 +1,488 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 13:48:40",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:41",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:47",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:47",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:48",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:48",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:49",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:50",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:51",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:52",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-12 13:48:52",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> create a horizontal line using 9 purple blocks on the corner of the grid",
+                "<Architect> cool"
+            ],
+            "Timestamp": "2024-04-12 13:48:55",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 2,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": 3,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        }
+    ]
+}

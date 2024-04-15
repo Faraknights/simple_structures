@@ -1,0 +1,119 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 11:09:01",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place an orange pillar with 3 blocks 1 block away from an edge"
+            ],
+            "Timestamp": "2024-04-12 11:09:02",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place an orange pillar with 3 blocks 1 block away from an edge"
+            ],
+            "Timestamp": "2024-04-12 11:09:07",
+            "BlocksInGrid": [
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": 4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place an orange pillar with 3 blocks 1 block away from an edge"
+            ],
+            "Timestamp": "2024-04-12 11:09:07",
+            "BlocksInGrid": [
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": 4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 2,
+                    "Z": 4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place an orange pillar with 3 blocks 1 block away from an edge"
+            ],
+            "Timestamp": "2024-04-12 11:09:08",
+            "BlocksInGrid": [
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": 4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 2,
+                    "Z": 4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 3,
+                    "Z": 4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> place an orange pillar with 3 blocks 1 block away from an edge",
+                "<Architect> great"
+            ],
+            "Timestamp": "2024-04-12 11:09:13",
+            "BlocksInGrid": [
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": 4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 2,
+                    "Z": 4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 3,
+                    "Z": 4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        }
+    ]
+}

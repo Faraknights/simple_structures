@@ -1,0 +1,119 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 11:10:16",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 purple blocks in a diagonal line around the center of the board"
+            ],
+            "Timestamp": "2024-04-12 11:10:31",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 purple blocks in a diagonal line around the center of the board"
+            ],
+            "Timestamp": "2024-04-12 11:10:34",
+            "BlocksInGrid": [
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 purple blocks in a diagonal line around the center of the board"
+            ],
+            "Timestamp": "2024-04-12 11:10:35",
+            "BlocksInGrid": [
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 purple blocks in a diagonal line around the center of the board"
+            ],
+            "Timestamp": "2024-04-12 11:10:35",
+            "BlocksInGrid": [
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> put 3 purple blocks in a diagonal line around the center of the board",
+                "<Architect> Yes perfect ! "
+            ],
+            "Timestamp": "2024-04-12 11:10:46",
+            "BlocksInGrid": [
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        }
+    ]
+}

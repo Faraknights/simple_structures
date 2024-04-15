@@ -1,0 +1,272 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 10:37:10",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a pillar of 6 blue blocks against an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:37:13",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a pillar of 6 blue blocks against an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:37:17",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a pillar of 6 blue blocks against an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:37:20",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a pillar of 6 blue blocks against an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:37:20",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a pillar of 6 blue blocks against an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:37:21",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a pillar of 6 blue blocks against an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:37:22",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a pillar of 6 blue blocks against an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:37:22",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 6,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a pillar of 6 blue blocks against an edge of the board",
+                "<Architect> yeah"
+            ],
+            "Timestamp": "2024-04-12 10:37:31",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                },
+                {
+                    "X": 5,
+                    "Y": 6,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "BLUE"
+                }
+            ]
+        }
+    ]
+}

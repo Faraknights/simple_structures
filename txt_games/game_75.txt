@@ -1,0 +1,6 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> make a tower of 2 green blocks around the middle of the board
+4 : [Builder puts down a green block at X:0 Y:1 Z:0]
+6 : [Builder puts down a green block at X:0 Y:2 Z:0]
+7 : <Architect> Perfect :)

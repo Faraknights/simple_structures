@@ -1,0 +1,11 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> build a row of 7 green blocks 1 block away from an edge of the board
+4 : [Builder puts down a green block at X:-5 Y:1 Z:4]
+6 : [Builder puts down a green block at X:-5 Y:1 Z:3]
+8 : [Builder puts down a green block at X:-5 Y:1 Z:2]
+10 : [Builder puts down a green block at X:-5 Y:1 Z:1]
+12 : [Builder puts down a green block at X:-5 Y:1 Z:0]
+14 : [Builder puts down a green block at X:-5 Y:1 Z:-1]
+16 : [Builder puts down a green block at X:-5 Y:1 Z:-2]
+17 : <Architect> Yes, perfect

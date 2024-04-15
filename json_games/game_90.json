@@ -1,0 +1,337 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-15 00:34:05",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add 7 red blocks in a vertical line 2 spaces away from the center"
+            ],
+            "Timestamp": "2024-04-15 00:34:07",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add 7 red blocks in a vertical line 2 spaces away from the center"
+            ],
+            "Timestamp": "2024-04-15 00:34:17",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add 7 red blocks in a vertical line 2 spaces away from the center"
+            ],
+            "Timestamp": "2024-04-15 00:34:17",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add 7 red blocks in a vertical line 2 spaces away from the center"
+            ],
+            "Timestamp": "2024-04-15 00:34:17",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add 7 red blocks in a vertical line 2 spaces away from the center"
+            ],
+            "Timestamp": "2024-04-15 00:34:18",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add 7 red blocks in a vertical line 2 spaces away from the center"
+            ],
+            "Timestamp": "2024-04-15 00:34:18",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add 7 red blocks in a vertical line 2 spaces away from the center"
+            ],
+            "Timestamp": "2024-04-15 00:34:18",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add 7 red blocks in a vertical line 2 spaces away from the center"
+            ],
+            "Timestamp": "2024-04-15 00:34:19",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add 7 red blocks in a vertical line 2 spaces away from the center",
+                "<Architect> great"
+            ],
+            "Timestamp": "2024-04-15 00:34:29",
+            "BlocksInGrid": [
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 2,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 3,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 4,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 5,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 6,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": 0,
+                    "Y": 7,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        }
+    ]
+}

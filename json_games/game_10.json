@@ -1,0 +1,214 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 10:44:36",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a horizontal line using 5 green blocks on an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:44:39",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a horizontal line using 5 green blocks on an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:44:44",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a horizontal line using 5 green blocks on an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:44:45",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a horizontal line using 5 green blocks on an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:44:45",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a horizontal line using 5 green blocks on an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:44:46",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a horizontal line using 5 green blocks on an edge of the board"
+            ],
+            "Timestamp": "2024-04-12 10:44:46",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a horizontal line using 5 green blocks on an edge of the board",
+                "<Architect> like this, yes"
+            ],
+            "Timestamp": "2024-04-12 10:44:54",
+            "BlocksInGrid": [
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                },
+                {
+                    "X": 2,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "GREEN"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 13:41:12",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add a tower of 5 orange blocks in a corner"
+            ],
+            "Timestamp": "2024-04-12 13:41:20",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add a tower of 5 orange blocks in a corner"
+            ],
+            "Timestamp": "2024-04-12 13:41:21",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add a tower of 5 orange blocks in a corner"
+            ],
+            "Timestamp": "2024-04-12 13:41:22",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add a tower of 5 orange blocks in a corner"
+            ],
+            "Timestamp": "2024-04-12 13:41:22",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add a tower of 5 orange blocks in a corner"
+            ],
+            "Timestamp": "2024-04-12 13:41:23",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add a tower of 5 orange blocks in a corner"
+            ],
+            "Timestamp": "2024-04-12 13:41:23",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> add a tower of 5 orange blocks in a corner",
+                "<Architect> cool"
+            ],
+            "Timestamp": "2024-04-12 13:41:28",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        }
+    ]
+}

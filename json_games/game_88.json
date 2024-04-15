@@ -1,0 +1,488 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-15 00:32:41",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:52",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:54",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:54",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:56",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:56",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:57",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:57",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 6,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:57",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 6,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 7,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:57",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 6,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 7,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 8,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:32:58",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 6,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 7,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 8,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 9,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> build a purple pillar with 9 blocks in the corner of the grid",
+                "<Architect> awesome"
+            ],
+            "Timestamp": "2024-04-15 00:33:04",
+            "BlocksInGrid": [
+                {
+                    "X": 5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 2,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 3,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 4,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 5,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 6,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 7,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 8,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                },
+                {
+                    "X": 5,
+                    "Y": 9,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "PURPLE"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> create an orange vertical line by stacking 9 blocks 2 blocks away from the center of the board
+4 : [Builder puts down a orange block at X:0 Y:1 Z:2]
+6 : [Builder puts down a orange block at X:0 Y:2 Z:2]
+8 : [Builder puts down a orange block at X:0 Y:3 Z:2]
+10 : [Builder puts down a orange block at X:0 Y:4 Z:2]
+12 : [Builder puts down a orange block at X:0 Y:5 Z:2]
+14 : [Builder puts down a orange block at X:0 Y:6 Z:2]
+16 : [Builder puts down a orange block at X:0 Y:7 Z:2]
+18 : [Builder puts down a orange block at X:0 Y:8 Z:2]
+20 : [Builder puts down a orange block at X:0 Y:9 Z:2]
+21 : <Architect> awesome, yes

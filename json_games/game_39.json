@@ -1,0 +1,574 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-12 13:43:46",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:48",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:51",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:51",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:51",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:52",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:52",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:52",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:53",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:53",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:53",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 9,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge"
+            ],
+            "Timestamp": "2024-04-12 13:43:54",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 9,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 10,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a red tower by stacking 10 blocks along an edge",
+                "<Architect> like this, great"
+            ],
+            "Timestamp": "2024-04-12 13:44:00",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 2,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 3,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 4,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 5,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 6,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 7,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 8,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 9,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                },
+                {
+                    "X": -5,
+                    "Y": 10,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "RED"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> build a red row with 9 blocks toward the middle
+4 : [Builder puts down a red block at X:0 Y:1 Z:4]
+6 : [Builder puts down a red block at X:0 Y:1 Z:3]
+8 : [Builder puts down a red block at X:0 Y:1 Z:2]
+10 : [Builder puts down a red block at X:0 Y:1 Z:1]
+12 : [Builder puts down a red block at X:0 Y:1 Z:0]
+14 : [Builder puts down a red block at X:0 Y:1 Z:-1]
+16 : [Builder puts down a red block at X:0 Y:1 Z:-2]
+18 : [Builder puts down a red block at X:0 Y:1 Z:-3]
+20 : [Builder puts down a red block at X:0 Y:1 Z:-4]
+21 : <Architect> Good

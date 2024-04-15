@@ -1,0 +1,11 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> place 7 yellow blocks in a horizontal line at the middle of the grid
+4 : [Builder puts down a yellow block at X:3 Y:1 Z:0]
+6 : [Builder puts down a yellow block at X:2 Y:1 Z:0]
+8 : [Builder puts down a yellow block at X:1 Y:1 Z:0]
+10 : [Builder puts down a yellow block at X:0 Y:1 Z:0]
+12 : [Builder puts down a yellow block at X:-1 Y:1 Z:0]
+14 : [Builder puts down a yellow block at X:-2 Y:1 Z:0]
+16 : [Builder puts down a yellow block at X:-3 Y:1 Z:0]
+17 : <Architect> yup, good job

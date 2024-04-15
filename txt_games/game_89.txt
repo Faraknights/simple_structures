@@ -1,0 +1,13 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> create a yellow tower with 9 blocks 2 blocks away from an edge
+4 : [Builder puts down a yellow block at X:3 Y:1 Z:0]
+6 : [Builder puts down a yellow block at X:3 Y:2 Z:0]
+8 : [Builder puts down a yellow block at X:3 Y:3 Z:0]
+10 : [Builder puts down a yellow block at X:3 Y:4 Z:0]
+12 : [Builder puts down a yellow block at X:3 Y:5 Z:0]
+14 : [Builder puts down a yellow block at X:3 Y:6 Z:0]
+16 : [Builder puts down a yellow block at X:3 Y:7 Z:0]
+18 : [Builder puts down a yellow block at X:3 Y:8 Z:0]
+20 : [Builder puts down a yellow block at X:3 Y:9 Z:0]
+21 : <Architect> great job

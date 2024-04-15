@@ -1,0 +1,337 @@
+{
+    "WorldStates": [
+        {
+            "ChatHistory": [
+                "Mission 0 started"
+            ],
+            "Timestamp": "2024-04-15 00:34:47",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a diagonal line using 7 orange blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:34:49",
+            "BlocksInGrid": []
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a diagonal line using 7 orange blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:34:58",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a diagonal line using 7 orange blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:34:59",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -4,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a diagonal line using 7 orange blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:34:59",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -4,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a diagonal line using 7 orange blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:35:00",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -4,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a diagonal line using 7 orange blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:35:00",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -4,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a diagonal line using 7 orange blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:35:01",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -4,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a diagonal line using 7 orange blocks on the corner of the grid"
+            ],
+            "Timestamp": "2024-04-15 00:35:05",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -4,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        },
+        {
+            "ChatHistory": [
+                "Mission 0 started",
+                "<Architect> make a diagonal line using 7 orange blocks on the corner of the grid",
+                "<Architect> nice"
+            ],
+            "Timestamp": "2024-04-15 00:35:23",
+            "BlocksInGrid": [
+                {
+                    "X": -5,
+                    "Y": 1,
+                    "Z": -5,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -4,
+                    "Y": 1,
+                    "Z": -4,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -3,
+                    "Y": 1,
+                    "Z": -3,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -2,
+                    "Y": 1,
+                    "Z": -2,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": -1,
+                    "Y": 1,
+                    "Z": -1,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 0,
+                    "Y": 1,
+                    "Z": 0,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                },
+                {
+                    "X": 1,
+                    "Y": 1,
+                    "Z": 1,
+                    "Type": "wool",
+                    "Colour": "ORANGE"
+                }
+            ]
+        }
+    ]
+}
