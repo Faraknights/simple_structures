@@ -1,13 +1,9 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> build a purple pillar with 9 blocks in the corner of the grid
-4 : [Builder puts down a purple block at X:5 Y:1 Z:-5]
-6 : [Builder puts down a purple block at X:5 Y:2 Z:-5]
-8 : [Builder puts down a purple block at X:5 Y:3 Z:-5]
-10 : [Builder puts down a purple block at X:5 Y:4 Z:-5]
-12 : [Builder puts down a purple block at X:5 Y:5 Z:-5]
-14 : [Builder puts down a purple block at X:5 Y:6 Z:-5]
-16 : [Builder puts down a purple block at X:5 Y:7 Z:-5]
-18 : [Builder puts down a purple block at X:5 Y:8 Z:-5]
-20 : [Builder puts down a purple block at X:5 Y:9 Z:-5]
-21 : <Architect> awesome
+2 : <Architect> create an orange row with 5 blocks at the center of the grid
+4 : [Builder puts down a orange block at X:-2 Y:1 Z:-1]
+6 : [Builder puts down a orange block at X:-1 Y:1 Z:-1]
+8 : [Builder puts down a orange block at X:0 Y:1 Z:-1]
+10 : [Builder puts down a orange block at X:1 Y:1 Z:-1]
+12 : [Builder puts down a orange block at X:2 Y:1 Z:-1]
+13 : <Architect> great

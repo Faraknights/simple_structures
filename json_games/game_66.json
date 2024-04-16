@@ -1,119 +1,574 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:26:56",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:03",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:05",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-14 23:14:21",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a tower of 3 blue blocks on a corner"
-            ],
-            "Timestamp": "2024-04-14 23:14:24",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a tower of 3 blue blocks on a corner"
-            ],
-            "Timestamp": "2024-04-14 23:14:28",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a tower of 3 blue blocks on a corner"
-            ],
-            "Timestamp": "2024-04-14 23:14:29",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a tower of 3 blue blocks on a corner"
-            ],
-            "Timestamp": "2024-04-14 23:14:29",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a tower of 3 blue blocks on a corner",
-                "<Architect> fantastic job !"
-            ],
-            "Timestamp": "2024-04-14 23:14:37",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:06",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:07",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:07",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:07",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:07",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:07",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:08",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 8,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:08",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 8,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 9,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:08",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 8,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 9,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 10,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 10 red blocks toward the middle of the grid",
+        "<Architect> ok"
+      ],
+      "Timestamp": "2024-04-16 08:27:10",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 8,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 9,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 1,
+          "Y": 10,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    }
+  ]
 }

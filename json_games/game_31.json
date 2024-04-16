@@ -1,488 +1,272 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:50:56",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:13",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:22",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 11:12:25",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:28",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:42",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:44",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 2,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:45",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 2,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 3,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:45",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 2,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 3,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 4,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:45",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 2,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 3,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 4,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 5,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:46",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 2,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 3,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 4,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 5,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 6,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:46",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 2,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 3,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 4,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 5,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 6,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 7,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:47",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 2,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 3,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 4,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 5,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 6,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 7,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 8,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge"
-            ],
-            "Timestamp": "2024-04-12 11:12:47",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 2,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 3,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 4,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 5,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 6,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 7,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 8,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 9,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge",
-                "<Architect> great"
-            ],
-            "Timestamp": "2024-04-12 11:13:01",
-            "BlocksInGrid": [
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 2,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 3,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 4,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 5,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 6,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 7,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 8,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 9,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:24",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:24",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board",
+        "<Architect> Cool"
+      ],
+      "Timestamp": "2024-04-16 00:51:29",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    }
+  ]
 }

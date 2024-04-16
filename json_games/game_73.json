@@ -1,82 +1,214 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:31:34",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 5 yellow blocks in a stack in the center"
+      ],
+      "Timestamp": "2024-04-16 08:31:39",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 5 yellow blocks in a stack in the center"
+      ],
+      "Timestamp": "2024-04-16 08:31:47",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-14 23:38:45",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add an orange pillar with 2 blocks in a corner of the grid"
-            ],
-            "Timestamp": "2024-04-14 23:38:47",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add an orange pillar with 2 blocks in a corner of the grid"
-            ],
-            "Timestamp": "2024-04-14 23:38:51",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add an orange pillar with 2 blocks in a corner of the grid"
-            ],
-            "Timestamp": "2024-04-14 23:38:52",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add an orange pillar with 2 blocks in a corner of the grid",
-                "<Architect> nice"
-            ],
-            "Timestamp": "2024-04-14 23:38:55",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                }
-            ]
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 5 yellow blocks in a stack in the center"
+      ],
+      "Timestamp": "2024-04-16 08:31:47",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 5 yellow blocks in a stack in the center"
+      ],
+      "Timestamp": "2024-04-16 08:31:47",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 5 yellow blocks in a stack in the center"
+      ],
+      "Timestamp": "2024-04-16 08:31:47",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 5 yellow blocks in a stack in the center"
+      ],
+      "Timestamp": "2024-04-16 08:31:48",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 5 yellow blocks in a stack in the center",
+        "<Architect> good job"
+      ],
+      "Timestamp": "2024-04-16 08:31:54",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    }
+  ]
 }

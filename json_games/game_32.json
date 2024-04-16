@@ -1,337 +1,214 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:52:09",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 5 green blocks toward the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 00:52:10",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 5 green blocks toward the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 00:52:18",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 11:14:07",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple tower with 7 blocks on the corner"
-            ],
-            "Timestamp": "2024-04-12 11:14:09",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple tower with 7 blocks on the corner"
-            ],
-            "Timestamp": "2024-04-12 11:14:14",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple tower with 7 blocks on the corner"
-            ],
-            "Timestamp": "2024-04-12 11:14:17",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple tower with 7 blocks on the corner"
-            ],
-            "Timestamp": "2024-04-12 11:14:17",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple tower with 7 blocks on the corner"
-            ],
-            "Timestamp": "2024-04-12 11:14:18",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple tower with 7 blocks on the corner"
-            ],
-            "Timestamp": "2024-04-12 11:14:18",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple tower with 7 blocks on the corner"
-            ],
-            "Timestamp": "2024-04-12 11:14:18",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 6,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple tower with 7 blocks on the corner"
-            ],
-            "Timestamp": "2024-04-12 11:14:18",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 6,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 7,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple tower with 7 blocks on the corner",
-                "<Architect> alright, yes"
-            ],
-            "Timestamp": "2024-04-12 11:14:26",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 6,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 7,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "GREEN"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 5 green blocks toward the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 00:52:18",
+      "BlocksInGrid": [
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 5 green blocks toward the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 00:52:18",
+      "BlocksInGrid": [
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 5 green blocks toward the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 00:52:19",
+      "BlocksInGrid": [
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 5 green blocks toward the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 00:52:19",
+      "BlocksInGrid": [
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 5 green blocks toward the middle of the board",
+        "<Architect> Good"
+      ],
+      "Timestamp": "2024-04-16 00:52:26",
+      "BlocksInGrid": [
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    }
+  ]
 }

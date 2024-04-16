@@ -1,13 +1,12 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> place a pillar of 9 orange blocks at the middle of the board
-4 : [Builder puts down a orange block at X:0 Y:1 Z:0]
-6 : [Builder puts down a orange block at X:0 Y:2 Z:0]
-8 : [Builder puts down a orange block at X:0 Y:3 Z:0]
-10 : [Builder puts down a orange block at X:0 Y:4 Z:0]
-12 : [Builder puts down a orange block at X:0 Y:5 Z:0]
-14 : [Builder puts down a orange block at X:0 Y:6 Z:0]
-16 : [Builder puts down a orange block at X:0 Y:7 Z:0]
-18 : [Builder puts down a orange block at X:0 Y:8 Z:0]
-20 : [Builder puts down a orange block at X:0 Y:9 Z:0]
-21 : <Architect> alright
+2 : <Architect> add a row of 8 green blocks toward the middle
+4 : [Builder puts down a green block at X:0 Y:1 Z:-1]
+6 : [Builder puts down a green block at X:0 Y:2 Z:-1]
+8 : [Builder puts down a green block at X:0 Y:3 Z:-1]
+10 : [Builder puts down a green block at X:0 Y:4 Z:-1]
+12 : [Builder puts down a green block at X:0 Y:5 Z:-1]
+14 : [Builder puts down a green block at X:0 Y:6 Z:-1]
+16 : [Builder puts down a green block at X:0 Y:7 Z:-1]
+18 : [Builder puts down a green block at X:0 Y:8 Z:-1]
+19 : <Architect> good

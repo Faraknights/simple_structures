@@ -1,272 +1,119 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:36:43",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:49",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:55",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-14 23:41:46",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 6 red blocks in a stack near an edge"
-            ],
-            "Timestamp": "2024-04-14 23:41:47",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 6 red blocks in a stack near an edge"
-            ],
-            "Timestamp": "2024-04-14 23:41:57",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 6 red blocks in a stack near an edge"
-            ],
-            "Timestamp": "2024-04-14 23:41:57",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 6 red blocks in a stack near an edge"
-            ],
-            "Timestamp": "2024-04-14 23:41:57",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 6 red blocks in a stack near an edge"
-            ],
-            "Timestamp": "2024-04-14 23:41:58",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 6 red blocks in a stack near an edge"
-            ],
-            "Timestamp": "2024-04-14 23:41:58",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 6 red blocks in a stack near an edge"
-            ],
-            "Timestamp": "2024-04-14 23:41:58",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 6 red blocks in a stack near an edge",
-                "<Architect> Yup"
-            ],
-            "Timestamp": "2024-04-14 23:42:05",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 5,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:55",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:55",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board",
+        "<Architect> nice"
+      ],
+      "Timestamp": "2024-04-16 08:37:14",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    }
+  ]
 }

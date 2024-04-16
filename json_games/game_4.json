@@ -1,163 +1,409 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:22:46",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:48",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:52",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 10:38:30",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a purple row with 4 blocks around the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:38:42",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a purple row with 4 blocks around the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:38:49",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a purple row with 4 blocks around the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:38:50",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a purple row with 4 blocks around the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:38:50",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a purple row with 4 blocks around the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:38:51",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a purple row with 4 blocks around the middle of the grid",
-                "<Architect> like this"
-            ],
-            "Timestamp": "2024-04-12 10:38:55",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:52",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:52",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:52",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:52",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:53",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:53",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:53",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 8,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 8 blocks at the center of the board",
+        "<Architect> perfect"
+      ],
+      "Timestamp": "2024-04-16 00:22:56",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 8,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    }
+  ]
 }

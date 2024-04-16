@@ -1,14 +1,10 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> make a yellow row with 10 blocks along an edge
-4 : [Builder puts down a yellow block at X:-5 Y:1 Z:5]
-6 : [Builder puts down a yellow block at X:-5 Y:1 Z:4]
-8 : [Builder puts down a yellow block at X:-5 Y:1 Z:3]
-10 : [Builder puts down a yellow block at X:-5 Y:1 Z:2]
-12 : [Builder puts down a yellow block at X:-5 Y:1 Z:1]
-14 : [Builder puts down a yellow block at X:-5 Y:1 Z:0]
-16 : [Builder puts down a yellow block at X:-5 Y:1 Z:-1]
-18 : [Builder puts down a yellow block at X:-5 Y:1 Z:-2]
-20 : [Builder puts down a yellow block at X:-5 Y:1 Z:-3]
-22 : [Builder puts down a yellow block at X:-5 Y:1 Z:-4]
-23 : <Architect> yeah
+2 : <Architect> place 6 orange blocks in a vertical line in the middle
+4 : [Builder puts down a orange block at X:0 Y:1 Z:0]
+6 : [Builder puts down a orange block at X:0 Y:2 Z:0]
+8 : [Builder puts down a orange block at X:0 Y:3 Z:0]
+10 : [Builder puts down a orange block at X:0 Y:4 Z:0]
+12 : [Builder puts down a orange block at X:0 Y:5 Z:0]
+14 : [Builder puts down a orange block at X:0 Y:6 Z:0]
+15 : <Architect> Yes

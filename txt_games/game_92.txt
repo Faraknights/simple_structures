@@ -1,6 +1,6 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> create a purple tower with 2 blocks around the center of the board
-4 : [Builder puts down a purple block at X:0 Y:1 Z:0]
-6 : [Builder puts down a purple block at X:0 Y:2 Z:0]
-7 : <Architect> perfect
+2 : <Architect> make a blue pillar with 2 blocks toward the middle of the grid
+4 : [Builder puts down a blue block at X:1 Y:1 Z:-1]
+6 : [Builder puts down a blue block at X:1 Y:2 Z:-1]
+7 : <Architect> ok

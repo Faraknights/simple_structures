@@ -1,6 +1,9 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> add an orange pillar with 2 blocks in a corner of the grid
-4 : [Builder puts down a orange block at X:5 Y:1 Z:-5]
-6 : [Builder puts down a orange block at X:5 Y:2 Z:-5]
-7 : <Architect> nice
+2 : <Architect> place 5 yellow blocks in a stack in the center
+4 : [Builder puts down a yellow block at X:0 Y:1 Z:0]
+6 : [Builder puts down a yellow block at X:0 Y:2 Z:0]
+8 : [Builder puts down a yellow block at X:0 Y:3 Z:0]
+10 : [Builder puts down a yellow block at X:0 Y:4 Z:0]
+12 : [Builder puts down a yellow block at X:0 Y:5 Z:0]
+13 : <Architect> good job

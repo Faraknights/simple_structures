@@ -1,163 +1,409 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:28:47",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle"
+      ],
+      "Timestamp": "2024-04-16 08:28:54",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle"
+      ],
+      "Timestamp": "2024-04-16 08:29:06",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-14 23:37:57",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red tower with 4 blocks toward the center"
-            ],
-            "Timestamp": "2024-04-14 23:37:58",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red tower with 4 blocks toward the center"
-            ],
-            "Timestamp": "2024-04-14 23:38:02",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red tower with 4 blocks toward the center"
-            ],
-            "Timestamp": "2024-04-14 23:38:02",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red tower with 4 blocks toward the center"
-            ],
-            "Timestamp": "2024-04-14 23:38:02",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red tower with 4 blocks toward the center"
-            ],
-            "Timestamp": "2024-04-14 23:38:03",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red tower with 4 blocks toward the center",
-                "<Architect> nice"
-            ],
-            "Timestamp": "2024-04-14 23:38:05",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle"
+      ],
+      "Timestamp": "2024-04-16 08:29:07",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle"
+      ],
+      "Timestamp": "2024-04-16 08:29:07",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle"
+      ],
+      "Timestamp": "2024-04-16 08:29:08",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle"
+      ],
+      "Timestamp": "2024-04-16 08:29:08",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle"
+      ],
+      "Timestamp": "2024-04-16 08:29:08",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle"
+      ],
+      "Timestamp": "2024-04-16 08:29:09",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle"
+      ],
+      "Timestamp": "2024-04-16 08:29:09",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 8,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put 8 yellow blocks in a stack at the middle",
+        "<Architect> yeah"
+      ],
+      "Timestamp": "2024-04-16 08:29:23",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 0,
+          "Y": 8,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    }
+  ]
 }

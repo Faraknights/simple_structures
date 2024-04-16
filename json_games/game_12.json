@@ -1,337 +1,82 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:40:26",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a diagonal line using 2 orange blocks starting from a corner"
+      ],
+      "Timestamp": "2024-04-16 00:40:28",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a diagonal line using 2 orange blocks starting from a corner"
+      ],
+      "Timestamp": "2024-04-16 00:40:33",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 10:46:10",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a yellow pillar with 7 blocks on the corner of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:46:12",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a yellow pillar with 7 blocks on the corner of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:46:17",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a yellow pillar with 7 blocks on the corner of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:46:17",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a yellow pillar with 7 blocks on the corner of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:46:18",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a yellow pillar with 7 blocks on the corner of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:46:21",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a yellow pillar with 7 blocks on the corner of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:46:21",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a yellow pillar with 7 blocks on the corner of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:46:22",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 6,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a yellow pillar with 7 blocks on the corner of the grid"
-            ],
-            "Timestamp": "2024-04-12 10:46:22",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 6,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 7,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a yellow pillar with 7 blocks on the corner of the grid",
-                "<Architect> cool"
-            ],
-            "Timestamp": "2024-04-12 10:46:24",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 6,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 7,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a diagonal line using 2 orange blocks starting from a corner"
+      ],
+      "Timestamp": "2024-04-16 00:40:33",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a diagonal line using 2 orange blocks starting from a corner",
+        "<Architect> Great"
+      ],
+      "Timestamp": "2024-04-16 00:40:37",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    }
+  ]
 }

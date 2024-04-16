@@ -1,272 +1,574 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:27:14",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:17",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:25",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-14 23:14:42",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple row with 6 blocks against an edge"
-            ],
-            "Timestamp": "2024-04-14 23:14:45",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple row with 6 blocks against an edge"
-            ],
-            "Timestamp": "2024-04-14 23:14:51",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple row with 6 blocks against an edge"
-            ],
-            "Timestamp": "2024-04-14 23:14:51",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple row with 6 blocks against an edge"
-            ],
-            "Timestamp": "2024-04-14 23:14:52",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple row with 6 blocks against an edge"
-            ],
-            "Timestamp": "2024-04-14 23:14:53",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple row with 6 blocks against an edge"
-            ],
-            "Timestamp": "2024-04-14 23:14:53",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple row with 6 blocks against an edge"
-            ],
-            "Timestamp": "2024-04-14 23:14:54",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a purple row with 6 blocks against an edge",
-                "<Architect> perfect"
-            ],
-            "Timestamp": "2024-04-14 23:15:04",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:25",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:26",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:27",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:28",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:28",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:29",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:29",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:30",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:27:31",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green row with 10 blocks in the center of the grid",
+        "<Architect> yes"
+      ],
+      "Timestamp": "2024-04-16 08:27:36",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    }
+  ]
 }

@@ -1,574 +1,82 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 07:56:11",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 2 red blocks in a stack on an edge"
+      ],
+      "Timestamp": "2024-04-16 07:56:16",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 2 red blocks in a stack on an edge"
+      ],
+      "Timestamp": "2024-04-16 07:56:22",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 13:42:00",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:02",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:09",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:10",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:10",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:10",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:11",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:11",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:11",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:12",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 8,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:12",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 8,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 9,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle"
-            ],
-            "Timestamp": "2024-04-12 13:42:12",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 8,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 9,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 10,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a green tower with 10 blocks 1 space away from the middle",
-                "<Architect> perfect"
-            ],
-            "Timestamp": "2024-04-12 13:42:22",
-            "BlocksInGrid": [
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 8,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 9,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 1,
-                    "Y": 10,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
+          "X": 0,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "RED"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 2 red blocks in a stack on an edge"
+      ],
+      "Timestamp": "2024-04-16 07:56:22",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 2 red blocks in a stack on an edge",
+        "<Architect> yes"
+      ],
+      "Timestamp": "2024-04-16 07:56:27",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    }
+  ]
 }

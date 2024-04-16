@@ -1,8 +1,12 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> build a red tower with 4 blocks toward the center
-4 : [Builder puts down a red block at X:0 Y:1 Z:0]
-6 : [Builder puts down a red block at X:0 Y:2 Z:0]
-8 : [Builder puts down a red block at X:0 Y:3 Z:0]
-10 : [Builder puts down a red block at X:0 Y:4 Z:0]
-11 : <Architect> nice
+2 : <Architect> put 8 yellow blocks in a stack at the middle
+4 : [Builder puts down a yellow block at X:0 Y:1 Z:-1]
+6 : [Builder puts down a yellow block at X:0 Y:2 Z:-1]
+8 : [Builder puts down a yellow block at X:0 Y:3 Z:-1]
+10 : [Builder puts down a yellow block at X:0 Y:4 Z:-1]
+12 : [Builder puts down a yellow block at X:0 Y:5 Z:-1]
+14 : [Builder puts down a yellow block at X:0 Y:6 Z:-1]
+16 : [Builder puts down a yellow block at X:0 Y:7 Z:-1]
+18 : [Builder puts down a yellow block at X:0 Y:8 Z:-1]
+19 : <Architect> yeah

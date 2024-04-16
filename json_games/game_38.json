@@ -1,574 +1,163 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 07:59:07",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a purple pillar with 4 blocks near an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:59:10",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a purple pillar with 4 blocks near an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:59:14",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 13:42:59",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:01",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:06",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:06",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:07",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:07",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:07",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:07",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:07",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:07",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 8,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:08",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 8,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 9,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid"
-            ],
-            "Timestamp": "2024-04-12 13:43:08",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 8,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 9,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 10,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a purple tower with 10 blocks at the middle of the grid",
-                "<Architect> awesome"
-            ],
-            "Timestamp": "2024-04-12 13:43:15",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 5,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 6,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 7,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 8,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 9,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 10,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a purple pillar with 4 blocks near an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:59:16",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a purple pillar with 4 blocks near an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:59:17",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a purple pillar with 4 blocks near an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:59:18",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a purple pillar with 4 blocks near an edge of the grid",
+        "<Architect> good"
+      ],
+      "Timestamp": "2024-04-16 08:01:35",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    }
+  ]
 }

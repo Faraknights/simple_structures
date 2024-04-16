@@ -1,214 +1,488 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 07:50:59",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:51:36",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:52:11",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 13:41:12",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add a tower of 5 orange blocks in a corner"
-            ],
-            "Timestamp": "2024-04-12 13:41:20",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add a tower of 5 orange blocks in a corner"
-            ],
-            "Timestamp": "2024-04-12 13:41:21",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add a tower of 5 orange blocks in a corner"
-            ],
-            "Timestamp": "2024-04-12 13:41:22",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add a tower of 5 orange blocks in a corner"
-            ],
-            "Timestamp": "2024-04-12 13:41:22",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add a tower of 5 orange blocks in a corner"
-            ],
-            "Timestamp": "2024-04-12 13:41:23",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add a tower of 5 orange blocks in a corner"
-            ],
-            "Timestamp": "2024-04-12 13:41:23",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> add a tower of 5 orange blocks in a corner",
-                "<Architect> cool"
-            ],
-            "Timestamp": "2024-04-12 13:41:28",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 2,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 3,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 4,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                },
-                {
-                    "X": 5,
-                    "Y": 5,
-                    "Z": -5,
-                    "Type": "wool",
-                    "Colour": "ORANGE"
-                }
-            ]
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:52:12",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:52:12",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:52:13",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:52:14",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:52:15",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:52:16",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:52:18",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 07:52:19",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board",
+        "<Architect> great"
+      ],
+      "Timestamp": "2024-04-16 07:52:23",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    }
+  ]
 }

@@ -1,574 +1,214 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:50:08",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green vertical line by stacking 5 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:50:09",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green vertical line by stacking 5 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:50:33",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 11:11:10",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:11",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:17",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:17",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:18",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:19",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:19",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:20",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:21",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:22",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:23",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": -3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner"
-            ],
-            "Timestamp": "2024-04-12 11:11:24",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": -3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": -4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place 10 yellow blocks in a diagonal line in a corner",
-                "<Architect> Looks good"
-            ],
-            "Timestamp": "2024-04-12 11:11:33",
-            "BlocksInGrid": [
-                {
-                    "X": -5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": -3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": -4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green vertical line by stacking 5 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:50:36",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green vertical line by stacking 5 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:50:36",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green vertical line by stacking 5 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:50:36",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green vertical line by stacking 5 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 00:50:38",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a green vertical line by stacking 5 blocks toward the center of the board",
+        "<Architect> great"
+      ],
+      "Timestamp": "2024-04-16 00:50:49",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 3,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 4,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 5,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    }
+  ]
 }

@@ -1,10 +1,6 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> Stack 6 blue blocks 1 space away from the center
-4 : [Builder puts down a blue block at X:-1 Y:1 Z:0]
-6 : [Builder puts down a blue block at X:-1 Y:2 Z:0]
-8 : [Builder puts down a blue block at X:-1 Y:3 Z:0]
-10 : [Builder puts down a blue block at X:-1 Y:4 Z:0]
-12 : [Builder puts down a blue block at X:-1 Y:5 Z:0]
-14 : [Builder puts down a blue block at X:-1 Y:6 Z:0]
-15 : <Architect> great
+2 : <Architect> make a row of 2 yellow blocks at the middle of the board
+4 : [Builder puts down a yellow block at X:0 Y:1 Z:-1]
+6 : [Builder puts down a yellow block at X:0 Y:2 Z:-1]
+7 : <Architect> yes

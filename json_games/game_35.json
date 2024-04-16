@@ -1,488 +1,488 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 07:52:31",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:35",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:47",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 13:41:33",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:35",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:45",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:46",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:46",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:46",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:47",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:47",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:48",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:48",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle"
-            ],
-            "Timestamp": "2024-04-12 13:41:49",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> build a red row with 9 blocks toward the middle",
-                "<Architect> Good"
-            ],
-            "Timestamp": "2024-04-12 13:41:55",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -3,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": -4,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:50",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:53",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:53",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:53",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:54",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:54",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:54",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 8,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 07:52:55",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 8,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 9,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 9 orange blocks against an edge of the grid",
+        "<Architect> cool"
+      ],
+      "Timestamp": "2024-04-16 07:52:59",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 8,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 9,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    }
+  ]
 }

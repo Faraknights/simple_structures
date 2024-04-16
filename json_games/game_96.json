@@ -1,163 +1,272 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:54:29",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 6 purple blocks in a horizontal line toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:54:35",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 6 purple blocks in a horizontal line toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:54:41",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-15 00:37:20",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a vertical line using 4 red blocks in the center"
-            ],
-            "Timestamp": "2024-04-15 00:37:24",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a vertical line using 4 red blocks in the center"
-            ],
-            "Timestamp": "2024-04-15 00:37:32",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a vertical line using 4 red blocks in the center"
-            ],
-            "Timestamp": "2024-04-15 00:37:33",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a vertical line using 4 red blocks in the center"
-            ],
-            "Timestamp": "2024-04-15 00:37:34",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a vertical line using 4 red blocks in the center"
-            ],
-            "Timestamp": "2024-04-15 00:37:34",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a vertical line using 4 red blocks in the center",
-                "<Architect> ok"
-            ],
-            "Timestamp": "2024-04-15 00:37:36",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 3,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                },
-                {
-                    "X": 0,
-                    "Y": 4,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "RED"
-                }
-            ]
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 6 purple blocks in a horizontal line toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:54:41",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 6 purple blocks in a horizontal line toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:54:41",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 6 purple blocks in a horizontal line toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:54:42",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 6 purple blocks in a horizontal line toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:54:42",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 6 purple blocks in a horizontal line toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:54:43",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 6 purple blocks in a horizontal line toward the middle of the grid",
+        "<Architect> yes"
+      ],
+      "Timestamp": "2024-04-16 08:54:46",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    }
+  ]
 }

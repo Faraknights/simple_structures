@@ -1,82 +1,337 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:33:23",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 7 red blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:33:28",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 7 red blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:33:51",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-14 23:39:46",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a tower of 2 green blocks around the middle of the board"
-            ],
-            "Timestamp": "2024-04-14 23:40:02",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a tower of 2 green blocks around the middle of the board"
-            ],
-            "Timestamp": "2024-04-14 23:40:05",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a tower of 2 green blocks around the middle of the board"
-            ],
-            "Timestamp": "2024-04-14 23:40:05",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> make a tower of 2 green blocks around the middle of the board",
-                "<Architect> Perfect :)"
-            ],
-            "Timestamp": "2024-04-14 23:40:11",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "GREEN"
-                }
-            ]
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 7 red blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:33:52",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 7 red blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:33:53",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 7 red blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:33:54",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 7 red blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:33:55",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 7 red blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:33:55",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 7 red blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:33:55",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 7 red blocks toward the center of the board",
+        "<Architect> awesome"
+      ],
+      "Timestamp": "2024-04-16 08:34:04",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    }
+  ]
 }

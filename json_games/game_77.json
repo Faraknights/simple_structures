@@ -1,488 +1,272 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:36:05",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:17",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:21",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-14 23:40:57",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:40:59",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:41:07",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:41:07",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:41:08",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:41:08",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:41:08",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:41:09",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:41:09",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:41:10",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center"
-            ],
-            "Timestamp": "2024-04-14 23:41:11",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a horizontal line using 9 yellow blocks in the center",
-                "<Architect> Ok"
-            ],
-            "Timestamp": "2024-04-14 23:41:15",
-            "BlocksInGrid": [
-                {
-                    "X": 4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -2,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -3,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -4,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:21",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:22",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:22",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board",
+        "<Architect> perfect"
+      ],
+      "Timestamp": "2024-04-16 08:36:33",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    }
+  ]
 }

@@ -1,272 +1,82 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:22:01",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a green pillar with 2 blocks toward the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:03",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a green pillar with 2 blocks toward the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:14",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 10:38:00",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a row of 6 blue blocks 1 block away from the middle"
-            ],
-            "Timestamp": "2024-04-12 10:38:03",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a row of 6 blue blocks 1 block away from the middle"
-            ],
-            "Timestamp": "2024-04-12 10:38:06",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a row of 6 blue blocks 1 block away from the middle"
-            ],
-            "Timestamp": "2024-04-12 10:38:06",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a row of 6 blue blocks 1 block away from the middle"
-            ],
-            "Timestamp": "2024-04-12 10:38:07",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a row of 6 blue blocks 1 block away from the middle"
-            ],
-            "Timestamp": "2024-04-12 10:38:07",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a row of 6 blue blocks 1 block away from the middle"
-            ],
-            "Timestamp": "2024-04-12 10:38:08",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a row of 6 blue blocks 1 block away from the middle"
-            ],
-            "Timestamp": "2024-04-12 10:38:09",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> put a row of 6 blue blocks 1 block away from the middle",
-                "<Architect> perfect"
-            ],
-            "Timestamp": "2024-04-12 10:38:14",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "BLUE"
-                }
-            ]
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a green pillar with 2 blocks toward the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 00:22:15",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a green pillar with 2 blocks toward the middle of the board",
+        "<Architect> Okay"
+      ],
+      "Timestamp": "2024-04-16 00:22:20",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    }
+  ]
 }

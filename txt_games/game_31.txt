@@ -1,13 +1,10 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> place a pillar of 9 yellow blocks 2 blocks away from an edge
-4 : [Builder puts down a yellow block at X:-3 Y:1 Z:2]
-6 : [Builder puts down a yellow block at X:-3 Y:2 Z:2]
-8 : [Builder puts down a yellow block at X:-3 Y:3 Z:2]
-10 : [Builder puts down a yellow block at X:-3 Y:4 Z:2]
-12 : [Builder puts down a yellow block at X:-3 Y:5 Z:2]
-14 : [Builder puts down a yellow block at X:-3 Y:6 Z:2]
-16 : [Builder puts down a yellow block at X:-3 Y:7 Z:2]
-18 : [Builder puts down a yellow block at X:-3 Y:8 Z:2]
-20 : [Builder puts down a yellow block at X:-3 Y:9 Z:2]
-21 : <Architect> great
+2 : <Architect> create a tower of 6 red blocks near an edge of the board
+4 : [Builder puts down a red block at X:-5 Y:1 Z:2]
+6 : [Builder puts down a red block at X:-5 Y:2 Z:2]
+8 : [Builder puts down a red block at X:-5 Y:3 Z:2]
+10 : [Builder puts down a red block at X:-5 Y:4 Z:2]
+12 : [Builder puts down a red block at X:-5 Y:5 Z:2]
+14 : [Builder puts down a red block at X:-5 Y:6 Z:2]
+15 : <Architect> Cool

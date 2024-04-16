@@ -1,409 +1,163 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:44:28",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 4 blue blocks at the middle"
+      ],
+      "Timestamp": "2024-04-16 00:44:31",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 4 blue blocks at the middle"
+      ],
+      "Timestamp": "2024-04-16 00:44:37",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-12 10:52:01",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner"
-            ],
-            "Timestamp": "2024-04-12 10:52:03",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner"
-            ],
-            "Timestamp": "2024-04-12 10:52:31",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner"
-            ],
-            "Timestamp": "2024-04-12 10:52:32",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner"
-            ],
-            "Timestamp": "2024-04-12 10:52:32",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner"
-            ],
-            "Timestamp": "2024-04-12 10:52:33",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner"
-            ],
-            "Timestamp": "2024-04-12 10:52:33",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner"
-            ],
-            "Timestamp": "2024-04-12 10:52:34",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner"
-            ],
-            "Timestamp": "2024-04-12 10:52:35",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner"
-            ],
-            "Timestamp": "2024-04-12 10:52:36",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 8 blocks in the corner",
-                "<Architect> yup"
-            ],
-            "Timestamp": "2024-04-12 10:52:39",
-            "BlocksInGrid": [
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 5,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 4,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 3,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": 5,
-                    "Y": 1,
-                    "Z": -2,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 4 blue blocks at the middle"
+      ],
+      "Timestamp": "2024-04-16 00:44:40",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 4 blue blocks at the middle"
+      ],
+      "Timestamp": "2024-04-16 00:44:40",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 4 blue blocks at the middle"
+      ],
+      "Timestamp": "2024-04-16 00:44:40",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> Stack 4 blue blocks at the middle",
+        "<Architect> Great"
+      ],
+      "Timestamp": "2024-04-16 00:44:47",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    }
+  ]
 }

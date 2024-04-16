@@ -1,82 +1,409 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:25:22",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge"
+      ],
+      "Timestamp": "2024-04-16 08:25:28",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge"
+      ],
+      "Timestamp": "2024-04-16 08:25:35",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-14 23:13:54",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 2 blocks 1 block away from the center"
-            ],
-            "Timestamp": "2024-04-14 23:13:56",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 2 blocks 1 block away from the center"
-            ],
-            "Timestamp": "2024-04-14 23:14:06",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 2 blocks 1 block away from the center"
-            ],
-            "Timestamp": "2024-04-14 23:14:07",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> place a yellow row with 2 blocks 1 block away from the center",
-                "<Architect> Nice job"
-            ],
-            "Timestamp": "2024-04-14 23:14:17",
-            "BlocksInGrid": [
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                },
-                {
-                    "X": -1,
-                    "Y": 1,
-                    "Z": -1,
-                    "Type": "wool",
-                    "Colour": "YELLOW"
-                }
-            ]
+          "X": 4,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge"
+      ],
+      "Timestamp": "2024-04-16 08:25:36",
+      "BlocksInGrid": [
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge"
+      ],
+      "Timestamp": "2024-04-16 08:25:38",
+      "BlocksInGrid": [
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge"
+      ],
+      "Timestamp": "2024-04-16 08:25:39",
+      "BlocksInGrid": [
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge"
+      ],
+      "Timestamp": "2024-04-16 08:25:39",
+      "BlocksInGrid": [
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge"
+      ],
+      "Timestamp": "2024-04-16 08:25:39",
+      "BlocksInGrid": [
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge"
+      ],
+      "Timestamp": "2024-04-16 08:25:40",
+      "BlocksInGrid": [
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge"
+      ],
+      "Timestamp": "2024-04-16 08:25:40",
+      "BlocksInGrid": [
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 8,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 9 purple blocks near an edge",
+        "<Architect> ok"
+      ],
+      "Timestamp": "2024-04-16 08:25:43",
+      "BlocksInGrid": [
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 4,
+          "Y": 8,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    }
+  ]
 }

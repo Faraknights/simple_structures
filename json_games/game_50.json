@@ -4,114 +4,77 @@
       "ChatHistory": [
         "Mission 0 started"
       ],
-      "Timestamp": "2024-04-15 01:29:15",
+      "Timestamp": "2024-04-16 08:11:00",
       "BlocksInGrid": []
     },
     {
       "ChatHistory": [
         "Mission 0 started",
-        "<Architect> make a row of 3 blue blocks on an edge"
+        "<Architect> put a row of 2 green blocks along an edge starting from a corner"
       ],
-      "Timestamp": "2024-04-15 01:29:18",
+      "Timestamp": "2024-04-16 08:11:11",
       "BlocksInGrid": []
     },
     {
       "ChatHistory": [
         "Mission 0 started",
-        "<Architect> make a row of 3 blue blocks on an edge"
+        "<Architect> put a row of 2 green blocks along an edge starting from a corner"
       ],
-      "Timestamp": "2024-04-15 01:29:51",
+      "Timestamp": "2024-04-16 08:11:20",
       "BlocksInGrid": [
         {
-          "X": 5,
+          "X": -5,
           "Y": 1,
-          "Z": 0,
+          "Z": 5,
           "Type": "wool",
-          "Colour": "BLUE"
+          "Colour": "GREEN"
         }
       ]
     },
     {
       "ChatHistory": [
         "Mission 0 started",
-        "<Architect> make a row of 3 blue blocks on an edge"
+        "<Architect> put a row of 2 green blocks along an edge starting from a corner"
       ],
-      "Timestamp": "2024-04-15 01:29:52",
+      "Timestamp": "2024-04-16 08:11:20",
       "BlocksInGrid": [
         {
-          "X": 5,
+          "X": -5,
           "Y": 1,
-          "Z": 0,
+          "Z": 5,
           "Type": "wool",
-          "Colour": "BLUE"
+          "Colour": "GREEN"
         },
         {
-          "X": 5,
+          "X": -5,
           "Y": 1,
-          "Z": -1,
+          "Z": 4,
           "Type": "wool",
-          "Colour": "BLUE"
+          "Colour": "GREEN"
         }
       ]
     },
     {
       "ChatHistory": [
         "Mission 0 started",
-        "<Architect> make a row of 3 blue blocks on an edge"
+        "<Architect> put a row of 2 green blocks along an edge starting from a corner",
+        "<Architect> nice job"
       ],
-      "Timestamp": "2024-04-15 01:29:53",
+      "Timestamp": "2024-04-16 08:11:25",
       "BlocksInGrid": [
         {
-          "X": 5,
+          "X": -5,
           "Y": 1,
-          "Z": 0,
+          "Z": 5,
           "Type": "wool",
-          "Colour": "BLUE"
+          "Colour": "GREEN"
         },
         {
-          "X": 5,
+          "X": -5,
           "Y": 1,
-          "Z": -1,
+          "Z": 4,
           "Type": "wool",
-          "Colour": "BLUE"
-        },
-        {
-          "X": 5,
-          "Y": 1,
-          "Z": -2,
-          "Type": "wool",
-          "Colour": "BLUE"
-        }
-      ]
-    },
-    {
-      "ChatHistory": [
-        "Mission 0 started",
-        "<Architect> make a row of 3 blue blocks on an edge",
-        "<Architect> great"
-      ],
-      "Timestamp": "2024-04-15 01:29:57",
-      "BlocksInGrid": [
-        {
-          "X": 5,
-          "Y": 1,
-          "Z": 0,
-          "Type": "wool",
-          "Colour": "BLUE"
-        },
-        {
-          "X": 5,
-          "Y": 1,
-          "Z": -1,
-          "Type": "wool",
-          "Colour": "BLUE"
-        },
-        {
-          "X": 5,
-          "Y": 1,
-          "Z": -2,
-          "Type": "wool",
-          "Colour": "BLUE"
+          "Colour": "GREEN"
         }
       ]
     }

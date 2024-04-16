@@ -1,82 +1,82 @@
 {
-    "WorldStates": [
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:49:07",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a blue pillar with 2 blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:49:09",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a blue pillar with 2 blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:49:14",
+      "BlocksInGrid": [
         {
-            "ChatHistory": [
-                "Mission 0 started"
-            ],
-            "Timestamp": "2024-04-15 00:35:33",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a purple tower with 2 blocks around the center of the board"
-            ],
-            "Timestamp": "2024-04-15 00:35:35",
-            "BlocksInGrid": []
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a purple tower with 2 blocks around the center of the board"
-            ],
-            "Timestamp": "2024-04-15 00:35:45",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a purple tower with 2 blocks around the center of the board"
-            ],
-            "Timestamp": "2024-04-15 00:35:46",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
-        },
-        {
-            "ChatHistory": [
-                "Mission 0 started",
-                "<Architect> create a purple tower with 2 blocks around the center of the board",
-                "<Architect> perfect"
-            ],
-            "Timestamp": "2024-04-15 00:35:52",
-            "BlocksInGrid": [
-                {
-                    "X": 0,
-                    "Y": 1,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                },
-                {
-                    "X": 0,
-                    "Y": 2,
-                    "Z": 0,
-                    "Type": "wool",
-                    "Colour": "PURPLE"
-                }
-            ]
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
         }
-    ]
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a blue pillar with 2 blocks toward the middle of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:49:14",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a blue pillar with 2 blocks toward the middle of the grid",
+        "<Architect> ok"
+      ],
+      "Timestamp": "2024-04-16 08:49:17",
+      "BlocksInGrid": [
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    }
+  ]
 }

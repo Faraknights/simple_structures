@@ -1,8 +1,11 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> put a yellow row with 4 blocks near an edge
-4 : [Builder puts down a yellow block at X:-5 Y:1 Z:-1]
-6 : [Builder puts down a yellow block at X:-5 Y:1 Z:0]
-8 : [Builder puts down a yellow block at X:-5 Y:1 Z:1]
-10 : [Builder puts down a yellow block at X:-5 Y:1 Z:2]
-11 : <Architect> okay
+2 : <Architect> make a tower of 7 yellow blocks on an edge of the grid
+4 : [Builder puts down a yellow block at X:-1 Y:1 Z:-4]
+6 : [Builder puts down a yellow block at X:-1 Y:2 Z:-4]
+8 : [Builder puts down a yellow block at X:-1 Y:3 Z:-4]
+10 : [Builder puts down a yellow block at X:-1 Y:4 Z:-4]
+12 : [Builder puts down a yellow block at X:-1 Y:5 Z:-4]
+14 : [Builder puts down a yellow block at X:-1 Y:6 Z:-4]
+16 : [Builder puts down a yellow block at X:-1 Y:7 Z:-4]
+17 : <Architect> good

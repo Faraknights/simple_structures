@@ -1,14 +1,11 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> Stack 10 orange blocks toward the center of the board
-4 : [Builder puts down a orange block at X:0 Y:1 Z:0]
-6 : [Builder puts down a orange block at X:0 Y:2 Z:0]
-8 : [Builder puts down a orange block at X:0 Y:3 Z:0]
-10 : [Builder puts down a orange block at X:0 Y:4 Z:0]
-12 : [Builder puts down a orange block at X:0 Y:5 Z:0]
-14 : [Builder puts down a orange block at X:0 Y:6 Z:0]
-16 : [Builder puts down a orange block at X:0 Y:7 Z:0]
-18 : [Builder puts down a orange block at X:0 Y:8 Z:0]
-20 : [Builder puts down a orange block at X:0 Y:9 Z:0]
-22 : [Builder puts down a orange block at X:0 Y:10 Z:0]
-23 : <Architect> nice
+2 : <Architect> place a row of 7 yellow blocks toward the center of the grid
+4 : [Builder puts down a yellow block at X:0 Y:1 Z:3]
+6 : [Builder puts down a yellow block at X:0 Y:1 Z:2]
+8 : [Builder puts down a yellow block at X:0 Y:1 Z:1]
+10 : [Builder puts down a yellow block at X:0 Y:1 Z:0]
+12 : [Builder puts down a yellow block at X:0 Y:1 Z:-1]
+14 : [Builder puts down a yellow block at X:0 Y:1 Z:-2]
+16 : [Builder puts down a yellow block at X:0 Y:1 Z:-3]
+17 : <Architect> Perfect

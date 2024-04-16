@@ -1,12 +1,6 @@
 0 : Builder_B1 : Mission has started .
 1 : Mission 0 started
-2 : <Architect> create a pillar of 8 green blocks around the middle of the grid
-4 : [Builder puts down a green block at X:0 Y:1 Z:0]
-6 : [Builder puts down a green block at X:0 Y:2 Z:0]
-8 : [Builder puts down a green block at X:0 Y:3 Z:0]
-10 : [Builder puts down a green block at X:0 Y:4 Z:0]
-12 : [Builder puts down a green block at X:0 Y:5 Z:0]
-14 : [Builder puts down a green block at X:0 Y:6 Z:0]
-16 : [Builder puts down a green block at X:0 Y:7 Z:0]
-18 : [Builder puts down a green block at X:0 Y:8 Z:0]
-19 : <Architect> great
+2 : <Architect> make a blue row with 2 blocks in the center of the board
+4 : [Builder puts down a blue block at X:0 Y:1 Z:0]
+6 : [Builder puts down a blue block at X:0 Y:1 Z:-1]
+7 : <Architect> good job
