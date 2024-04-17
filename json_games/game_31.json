@@ -1,0 +1,272 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:50:56",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:13",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:22",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:24",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:24",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:51:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 6 red blocks near an edge of the board",
+        "<Architect> Cool"
+      ],
+      "Timestamp": "2024-04-16 00:51:29",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    }
+  ]
+}

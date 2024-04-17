@@ -1,0 +1,4 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> put a tower of 10 blue blocks at the center
+3 : <Architect> Yes

@@ -1,0 +1,488 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:03:10",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:13",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:18",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:29",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:29",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:29",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:29",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:30",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:31",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:32",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 8,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board"
+      ],
+      "Timestamp": "2024-04-16 08:03:32",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 8,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 9,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> build a purple pillar by stacking 9 blocks toward the center of the board",
+        "<Architect> good"
+      ],
+      "Timestamp": "2024-04-16 08:04:04",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 2,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 3,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 4,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 5,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 6,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 7,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 8,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 9,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    }
+  ]
+}

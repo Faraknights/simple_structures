@@ -1,0 +1,11 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge
+4 : [Builder puts down a yellow block at X:3 Y:1 Z:-2]
+6 : [Builder puts down a yellow block at X:3 Y:1 Z:-1]
+8 : [Builder puts down a yellow block at X:3 Y:1 Z:0]
+10 : [Builder puts down a yellow block at X:3 Y:1 Z:1]
+12 : [Builder puts down a yellow block at X:3 Y:1 Z:2]
+14 : [Builder puts down a yellow block at X:3 Y:1 Z:3]
+16 : [Builder puts down a yellow block at X:3 Y:1 Z:4]
+17 : <Architect> Perfect

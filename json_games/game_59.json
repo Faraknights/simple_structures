@@ -1,0 +1,337 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:17:10",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 7 green blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:17:14",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 7 green blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:17:29",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 7 green blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:17:32",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 7 green blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:17:32",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 7 green blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:17:33",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 7 green blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:17:33",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 7 green blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:17:33",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 6,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 7 green blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:17:34",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 6,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 7,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a tower of 7 green blocks in a corner of the board",
+        "<Architect> yep"
+      ],
+      "Timestamp": "2024-04-16 08:17:50",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 6,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 7,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    }
+  ]
+}

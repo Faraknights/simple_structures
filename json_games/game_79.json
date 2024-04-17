@@ -1,0 +1,119 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:36:43",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:49",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:55",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:55",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:55",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a tower of 3 red blocks against an edge of the board",
+        "<Architect> nice"
+      ],
+      "Timestamp": "2024-04-16 08:37:14",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "RED"
+        }
+      ]
+    }
+  ]
+}

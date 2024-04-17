@@ -1,0 +1,488 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:37:49",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:37:54",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:38:00",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:38:00",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:38:00",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:38:01",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:38:01",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:38:01",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:38:02",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 7,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:38:02",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 7,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 8,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid."
+      ],
+      "Timestamp": "2024-04-16 08:38:02",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 7,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 8,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 9,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid.",
+        "<Architect> yes"
+      ],
+      "Timestamp": "2024-04-16 08:38:08",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 7,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 8,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -5,
+          "Y": 9,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    }
+  ]
+}

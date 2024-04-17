@@ -1,0 +1,337 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:45:25",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge"
+      ],
+      "Timestamp": "2024-04-16 00:45:27",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge"
+      ],
+      "Timestamp": "2024-04-16 00:45:37",
+      "BlocksInGrid": [
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge"
+      ],
+      "Timestamp": "2024-04-16 00:45:38",
+      "BlocksInGrid": [
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge"
+      ],
+      "Timestamp": "2024-04-16 00:45:39",
+      "BlocksInGrid": [
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge"
+      ],
+      "Timestamp": "2024-04-16 00:45:39",
+      "BlocksInGrid": [
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge"
+      ],
+      "Timestamp": "2024-04-16 00:45:40",
+      "BlocksInGrid": [
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge"
+      ],
+      "Timestamp": "2024-04-16 00:45:40",
+      "BlocksInGrid": [
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge"
+      ],
+      "Timestamp": "2024-04-16 00:45:41",
+      "BlocksInGrid": [
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge",
+        "<Architect> Perfect"
+      ],
+      "Timestamp": "2024-04-16 00:45:47",
+      "BlocksInGrid": [
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    }
+  ]
+}

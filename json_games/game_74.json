@@ -1,0 +1,163 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:32:07",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 4 blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:32:10",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 4 blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:32:15",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 4 blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:32:16",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 4 blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:32:17",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 4 blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:32:18",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put an orange pillar with 4 blocks on an edge of the grid",
+        "<Architect> fantastic"
+      ],
+      "Timestamp": "2024-04-16 08:32:26",
+      "BlocksInGrid": [
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    }
+  ]
+}

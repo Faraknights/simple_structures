@@ -1,0 +1,12 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> build a purple row with 8 blocks on an edge
+4 : [Builder puts down a purple block at X:-5 Y:1 Z:3]
+6 : [Builder puts down a purple block at X:-5 Y:1 Z:2]
+8 : [Builder puts down a purple block at X:-5 Y:1 Z:1]
+10 : [Builder puts down a purple block at X:-5 Y:1 Z:0]
+12 : [Builder puts down a purple block at X:-5 Y:1 Z:-1]
+14 : [Builder puts down a purple block at X:-5 Y:1 Z:-2]
+16 : [Builder puts down a purple block at X:-5 Y:1 Z:-3]
+18 : [Builder puts down a purple block at X:-5 Y:1 Z:-4]
+19 : <Architect> Nice

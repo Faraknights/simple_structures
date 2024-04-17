@@ -1,0 +1,272 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:36:05",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:17",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:21",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:21",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:22",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:22",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 08:36:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add an orange tower by stacking 6 blocks in a corner of the board",
+        "<Architect> perfect"
+      ],
+      "Timestamp": "2024-04-16 08:36:33",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -5,
+          "Y": 6,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:39:57",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:39:58",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:40:06",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:40:06",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:40:09",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:40:10",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:40:10",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:40:10",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 6,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:40:10",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 6,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 7,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:40:11",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 6,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 7,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 8,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place 8 green blocks in a stack in a corner of the board",
+        "<Architect> Cool"
+      ],
+      "Timestamp": "2024-04-16 00:40:14",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 3,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 4,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 5,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 6,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 7,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": 5,
+          "Y": 8,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:23:05",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:08",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:13",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:14",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:14",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:15",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:15",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:16",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:16",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:17",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board"
+      ],
+      "Timestamp": "2024-04-16 00:23:17",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board",
+        "<Architect> Cool"
+      ],
+      "Timestamp": "2024-04-16 00:23:21",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "ORANGE"
+        }
+      ]
+    }
+  ]
+}

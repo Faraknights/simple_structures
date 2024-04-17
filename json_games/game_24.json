@@ -1,0 +1,272 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:46:42",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 6 purple blocks along an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:46:51",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 6 purple blocks along an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:46:53",
+      "BlocksInGrid": [
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 6 purple blocks along an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:46:54",
+      "BlocksInGrid": [
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 6 purple blocks along an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:46:54",
+      "BlocksInGrid": [
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 6 purple blocks along an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:46:55",
+      "BlocksInGrid": [
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 6 purple blocks along an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:46:55",
+      "BlocksInGrid": [
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 6 purple blocks along an edge of the board"
+      ],
+      "Timestamp": "2024-04-16 00:46:56",
+      "BlocksInGrid": [
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 6 purple blocks along an edge of the board",
+        "<Architect> Fantastic"
+      ],
+      "Timestamp": "2024-04-16 00:46:59",
+      "BlocksInGrid": [
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "PURPLE"
+        }
+      ]
+    }
+  ]
+}

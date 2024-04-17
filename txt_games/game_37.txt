@@ -1,0 +1,9 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> put a pillar of 5 green blocks in the center of the board
+4 : [Builder puts down a green block at X:0 Y:1 Z:0]
+6 : [Builder puts down a green block at X:0 Y:2 Z:0]
+8 : [Builder puts down a green block at X:0 Y:3 Z:0]
+10 : [Builder puts down a green block at X:0 Y:4 Z:0]
+12 : [Builder puts down a green block at X:0 Y:5 Z:0]
+13 : <Architect> alrigth

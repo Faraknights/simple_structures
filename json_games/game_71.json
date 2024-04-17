@@ -1,0 +1,488 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:29:28",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:39",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:47",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:48",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:48",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:50",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:50",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:51",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:52",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:52",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board"
+      ],
+      "Timestamp": "2024-04-16 08:29:53",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> add 9 blue blocks in a diagonal line at the middle of the board",
+        "<Architect> perfect"
+      ],
+      "Timestamp": "2024-04-16 08:30:04",
+      "BlocksInGrid": [
+        {
+          "X": 0,
+          "Y": 1,
+          "Z": 0,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 1,
+          "Y": 1,
+          "Z": 1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 2,
+          "Y": 1,
+          "Z": 2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 3,
+          "Y": 1,
+          "Z": 3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": 4,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -2,
+          "Y": 1,
+          "Z": -2,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -3,
+          "Y": 1,
+          "Z": -3,
+          "Type": "wool",
+          "Colour": "BLUE"
+        },
+        {
+          "X": -4,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "BLUE"
+        }
+      ]
+    }
+  ]
+}

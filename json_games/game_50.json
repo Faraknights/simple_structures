@@ -1,0 +1,82 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:11:00",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 2 green blocks along an edge starting from a corner"
+      ],
+      "Timestamp": "2024-04-16 08:11:11",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 2 green blocks along an edge starting from a corner"
+      ],
+      "Timestamp": "2024-04-16 08:11:20",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 2 green blocks along an edge starting from a corner"
+      ],
+      "Timestamp": "2024-04-16 08:11:20",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> put a row of 2 green blocks along an edge starting from a corner",
+        "<Architect> nice job"
+      ],
+      "Timestamp": "2024-04-16 08:11:25",
+      "BlocksInGrid": [
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 5,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -5,
+          "Y": 1,
+          "Z": 4,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    }
+  ]
+}

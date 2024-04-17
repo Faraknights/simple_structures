@@ -1,0 +1,337 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:50:25",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a tower of 7 yellow blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:50:29",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a tower of 7 yellow blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:50:33",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a tower of 7 yellow blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:50:33",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a tower of 7 yellow blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:50:34",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a tower of 7 yellow blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:50:39",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a tower of 7 yellow blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:50:40",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 5,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a tower of 7 yellow blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:50:42",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 5,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 6,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a tower of 7 yellow blocks on an edge of the grid"
+      ],
+      "Timestamp": "2024-04-16 08:50:43",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 5,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 6,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 7,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> make a tower of 7 yellow blocks on an edge of the grid",
+        "<Architect> good"
+      ],
+      "Timestamp": "2024-04-16 08:50:46",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 5,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 6,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": -1,
+          "Y": 7,
+          "Z": -4,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    }
+  ]
+}

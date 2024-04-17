@@ -1,0 +1,82 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 00:20:03",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a pillar of 2 yellow blocks on the corner"
+      ],
+      "Timestamp": "2024-04-16 00:20:30",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a pillar of 2 yellow blocks on the corner"
+      ],
+      "Timestamp": "2024-04-16 00:20:35",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a pillar of 2 yellow blocks on the corner"
+      ],
+      "Timestamp": "2024-04-16 00:20:35",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> create a pillar of 2 yellow blocks on the corner",
+        "<Architect> great"
+      ],
+      "Timestamp": "2024-04-16 00:20:41",
+      "BlocksInGrid": [
+        {
+          "X": 5,
+          "Y": 1,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        },
+        {
+          "X": 5,
+          "Y": 2,
+          "Z": -5,
+          "Type": "wool",
+          "Colour": "YELLOW"
+        }
+      ]
+    }
+  ]
+}

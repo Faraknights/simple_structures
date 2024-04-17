@@ -1,0 +1,337 @@
+{
+  "WorldStates": [
+    {
+      "ChatHistory": [
+        "Mission 0 started"
+      ],
+      "Timestamp": "2024-04-16 08:40:48",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 7 green blocks toward the middle"
+      ],
+      "Timestamp": "2024-04-16 08:40:51",
+      "BlocksInGrid": []
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 7 green blocks toward the middle"
+      ],
+      "Timestamp": "2024-04-16 08:41:03",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 7 green blocks toward the middle"
+      ],
+      "Timestamp": "2024-04-16 08:41:03",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 7 green blocks toward the middle"
+      ],
+      "Timestamp": "2024-04-16 08:41:03",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 7 green blocks toward the middle"
+      ],
+      "Timestamp": "2024-04-16 08:41:04",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 7 green blocks toward the middle"
+      ],
+      "Timestamp": "2024-04-16 08:41:04",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 7 green blocks toward the middle"
+      ],
+      "Timestamp": "2024-04-16 08:41:04",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 7 green blocks toward the middle"
+      ],
+      "Timestamp": "2024-04-16 08:41:06",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    },
+    {
+      "ChatHistory": [
+        "Mission 0 started",
+        "<Architect> place a pillar of 7 green blocks toward the middle",
+        "<Architect> ok"
+      ],
+      "Timestamp": "2024-04-16 08:41:11",
+      "BlocksInGrid": [
+        {
+          "X": -1,
+          "Y": 1,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 2,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 3,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 4,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 5,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 6,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        },
+        {
+          "X": -1,
+          "Y": 7,
+          "Z": -1,
+          "Type": "wool",
+          "Colour": "GREEN"
+        }
+      ]
+    }
+  ]
+}

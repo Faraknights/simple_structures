@@ -1,0 +1,11 @@
+0 : Builder_B1 : Mission has started .
+1 : Mission 0 started
+2 : <Architect> place a red tower with 7 blocks toward the middle
+4 : [Builder puts down a red block at X:-1 Y:1 Z:0]
+6 : [Builder puts down a red block at X:-1 Y:2 Z:0]
+8 : [Builder puts down a red block at X:-1 Y:3 Z:0]
+10 : [Builder puts down a red block at X:-1 Y:4 Z:0]
+12 : [Builder puts down a red block at X:-1 Y:5 Z:0]
+14 : [Builder puts down a red block at X:-1 Y:6 Z:0]
+16 : [Builder puts down a red block at X:-1 Y:7 Z:0]
+17 : <Architect> great
