@@ -1,9 +1,0 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> put a pillar of 5 purple blocks 1 space away from an edge of the board
-4 : [Builder puts down a purple block at X:-4 Y:1 Z:1]
-6 : [Builder puts down a purple block at X:-4 Y:2 Z:1]
-8 : [Builder puts down a purple block at X:-4 Y:3 Z:1]
-10 : [Builder puts down a purple block at X:-4 Y:4 Z:1]
-12 : [Builder puts down a purple block at X:-4 Y:5 Z:1]
-13 : <Architect> ok

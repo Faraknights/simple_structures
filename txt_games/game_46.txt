@@ -1,7 +1,0 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> put 3 red blocks in a horizontal line at the middle
-4 : [Builder puts down a red block at X:0 Y:1 Z:1]
-6 : [Builder puts down a red block at X:1 Y:1 Z:1]
-8 : [Builder puts down a red block at X:2 Y:1 Z:1]
-9 : <Architect> Yup

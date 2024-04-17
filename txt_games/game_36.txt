@@ -1,6 +1,0 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> place 2 red blocks in a stack on an edge
-4 : [Builder puts down a red block at X:0 Y:1 Z:5]
-6 : [Builder puts down a red block at X:0 Y:2 Z:5]
-7 : <Architect> yes

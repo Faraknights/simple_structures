@@ -1,6 +1,0 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> make a blue pillar with 2 blocks toward the middle of the grid
-4 : [Builder puts down a blue block at X:1 Y:1 Z:-1]
-6 : [Builder puts down a blue block at X:1 Y:2 Z:-1]
-7 : <Architect> ok

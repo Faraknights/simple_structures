@@ -1,9 +1,0 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> create an orange row with 5 blocks at the center of the grid
-4 : [Builder puts down a orange block at X:-2 Y:1 Z:-1]
-6 : [Builder puts down a orange block at X:-1 Y:1 Z:-1]
-8 : [Builder puts down a orange block at X:0 Y:1 Z:-1]
-10 : [Builder puts down a orange block at X:1 Y:1 Z:-1]
-12 : [Builder puts down a orange block at X:2 Y:1 Z:-1]
-13 : <Architect> great

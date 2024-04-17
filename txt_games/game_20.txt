@@ -1,8 +1,0 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> Stack 4 blue blocks at the middle
-4 : [Builder puts down a blue block at X:0 Y:1 Z:1]
-6 : [Builder puts down a blue block at X:0 Y:2 Z:1]
-8 : [Builder puts down a blue block at X:0 Y:3 Z:1]
-10 : [Builder puts down a blue block at X:0 Y:4 Z:1]
-11 : <Architect> Great
