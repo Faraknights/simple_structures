@@ -1,0 +1,13 @@
+dial_with_actions,action_seq
+"EMPTY
+<Builder> Mission has started.
+<Architect> create a tower of 6 yellow blocks toward the center
+","place yellow 0 1 0
+place yellow 0 2 0
+place yellow 0 3 0
+place yellow 0 4 0
+place yellow 0 5 0
+place yellow 0 6 0
+"
+"<Architect> Great job
+",

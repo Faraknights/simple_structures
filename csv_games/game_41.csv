@@ -1,0 +1,9 @@
+dial_with_actions,action_seq
+"EMPTY
+<Builder> Mission has started.
+<Architect> make a pillar of 2 purple blocks in the center of the grid
+","place purple 1 1 -1
+place purple 1 2 -1
+"
+"<Architect> nice
+",

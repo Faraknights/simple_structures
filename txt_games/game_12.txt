@@ -1,6 +1,0 @@
-dial_with_actions,action_seq
-<Builder> Mission has started.
-<Architect> build a diagonal line using 2 orange blocks starting from a corner
-place orange 5 1 -5
-place orange 4 1 -4
-<Architect> Great

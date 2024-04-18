@@ -1,0 +1,10 @@
+dial_with_actions,action_seq
+"EMPTY
+<Builder> Mission has started.
+<Architect> put 3 red blocks in a horizontal line toward the middle
+","place red 0 1 1
+place red 1 1 1
+place red 2 1 1
+"
+"<Architect> Yup
+",

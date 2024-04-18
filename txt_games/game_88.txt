@@ -1,9 +1,0 @@
-dial_with_actions,action_seq
-<Builder> Mission has started.
-<Architect> create an orange row with 5 blocks in the center of the grid
-place orange -2 1 -1
-place orange -1 1 -1
-place orange 0 1 -1
-place orange 1 1 -1
-place orange 2 1 -1
-<Architect> great

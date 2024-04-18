@@ -1,0 +1,12 @@
+dial_with_actions,action_seq
+"EMPTY
+<Builder> Mission has started.
+<Architect> place 5 yellow blocks in a stack in the center
+","place yellow 0 1 0
+place yellow 0 2 0
+place yellow 0 3 0
+place yellow 0 4 0
+place yellow 0 5 0
+"
+"<Architect> good job
+",

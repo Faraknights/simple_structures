@@ -1,0 +1,15 @@
+dial_with_actions,action_seq
+"EMPTY
+<Builder> Mission has started.
+<Architect> build a purple row with 8 blocks on an edge
+","place purple -5 1 3
+place purple -5 1 2
+place purple -5 1 1
+place purple -5 1 0
+place purple -5 1 -1
+place purple -5 1 -2
+place purple -5 1 -3
+place purple -5 1 -4
+"
+"<Architect> Nice
+",

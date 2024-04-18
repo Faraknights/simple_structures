@@ -1,0 +1,14 @@
+dial_with_actions,action_seq
+"EMPTY
+<Builder> Mission has started.
+<Architect> add a red pillar with 7 blocks toward the middle
+","place red 0 1 0
+place red 0 2 0
+place red 0 3 0
+place red 0 4 0
+place red 0 5 0
+place red 0 6 0
+place red 0 7 0
+"
+"<Architect> Yes
+",

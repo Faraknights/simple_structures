@@ -1,7 +1,0 @@
-dial_with_actions,action_seq
-<Builder> Mission has started.
-<Architect> add a tower of 3 red blocks against an edge of the board
-place red -1 1 -5
-place red -1 2 -5
-place red -1 3 -5
-<Architect> nice

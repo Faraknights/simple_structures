@@ -1,7 +1,0 @@
-dial_with_actions,action_seq
-<Builder> Mission has started.
-<Architect> build a tower of 3 blue blocks in the corner
-place blue -5 1 -5
-place blue -5 2 -5
-place blue -5 3 -5
-<Architect> good

@@ -1,6 +1,0 @@
-dial_with_actions,action_seq
-<Builder> Mission has started.
-<Architect> make a blue pillar with 2 blocks toward the middle of the grid
-place blue 1 1 -1
-place blue 1 2 -1
-<Architect> ok

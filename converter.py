@@ -3,6 +3,7 @@ import os
 import sys
 
 from typing import List
+import pandas as pd
     
 class BlockData: 
     def __init__(self, X, Y, Z, Type, Colour):
@@ -29,6 +30,12 @@ class Observation:
         self.WorldStates = WorldStates
 
 def process_json_file(json_file_path: str, output_folder: str):
+    data = {
+        'dial_with_actions': [],
+        'action_seq': []
+    }
+    df = pd.DataFrame(data)
+
     with open(json_file_path, 'r') as file:
         x = json.load(file)
 
@@ -36,21 +43,21 @@ def process_json_file(json_file_path: str, output_folder: str):
                                           [BlockData(**block) for block in state['BlocksInGrid']])
                               for state in x['WorldStates']])
 
-    BUILDER_NAME = "Builder_B1"
-    ARCHITECT_NAME = "Architect_A1"
-    textFile = f"dial_with_actions,action_seq\n"
     lastChat = []
     lastBlocksState = set()
-
-    i = 1
-    for world in observation.WorldStates:
+    
+    data_rows = []
+    data = {'dial_with_actions': '', 'action_seq': ''}
+    for i, world in enumerate(observation.WorldStates):
         if world.ChatHistory != lastChat:
-            new_messages = world.ChatHistory[len(lastChat):]
-            for message in new_messages:
-                text = message.replace("<architect> ", f"{ARCHITECT_NAME} : ").replace("<builder> ", f"{BUILDER_NAME} : ")
-                text = message.replace("Mission 0 started", f"<Builder> Mission has started.")
-                textFile += f"{text}\n"
-                i += 1
+            if i != 0:
+                data_rows.append(data)
+                data = {'dial_with_actions': '', 'action_seq': ''}
+                new_messages = world.ChatHistory[len(lastChat):]
+                for message in new_messages:
+                    if i == 1:
+                        data["dial_with_actions"] += f"EMPTY\n<Builder> Mission has started.\n"
+                    data["dial_with_actions"] += f"{message}\n"
             lastChat = world.ChatHistory.copy()
 
         currentBlocksState = set(world.blocksInGrid)
@@ -58,16 +65,22 @@ def process_json_file(json_file_path: str, output_folder: str):
             elements_removed = lastBlocksState - currentBlocksState
             elements_added = currentBlocksState - lastBlocksState
             for element in elements_removed:
-                textFile += f"pick {element.X} {element.Y} {element.Z}\n"
-            i += 1
+                data["action_seq"] += f"pick {element.X} {element.Y} {element.Z}\n"
             for element in elements_added:
-                textFile += f"place {element.Colour.lower()} {element.X} {element.Y} {element.Z}\n"
-            i += 1
+                data["action_seq"] += f"place {element.Colour.lower()} {element.X} {element.Y} {element.Z}\n"
             lastBlocksState = currentBlocksState
 
-    output_file_path = os.path.join(output_folder, os.path.basename(json_file_path).replace('.json', ".txt"))
+    if data['dial_with_actions'] or data['action_seq']:
+        data_rows.append(data)
+
+    new_df = pd.DataFrame(data_rows)
+    df = pd.concat([df, new_df], ignore_index=True)
+    print(df)
+    df = df[df.dial_with_actions != ""]
+        
+    output_file_path = os.path.join(output_folder, os.path.basename(json_file_path).replace('.json', ".csv"))
     with open(output_file_path, "w") as f:
-        f.write(textFile)
+        df.to_csv(f, index=False, lineterminator='\n')
 
 def main():
     json_folder = "json_games"

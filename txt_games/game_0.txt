@@ -1,6 +1,0 @@
-dial_with_actions,action_seq
-<Builder> Mission has started.
-<Architect> create a pillar of 2 yellow blocks on the corner
-place yellow 5 1 -5
-place yellow 5 2 -5
-<Architect> great

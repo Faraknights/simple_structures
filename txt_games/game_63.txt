@@ -1,7 +1,0 @@
-dial_with_actions,action_seq
-<Builder> Mission has started.
-<Architect> build a blue vertical line by stacking 3 blocks 2 blocks away from an edge of the board
-place blue -1 1 -3
-place blue -1 2 -3
-place blue -1 3 -3
-<Architect> yes

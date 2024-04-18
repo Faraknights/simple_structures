@@ -1,0 +1,9 @@
+dial_with_actions,action_seq
+"EMPTY
+<Builder> Mission has started.
+<Architect> build a green pillar with 2 blocks toward the middle of the board
+","place green 1 1 0
+place green 1 2 0
+"
+"<Architect> Okay
+",

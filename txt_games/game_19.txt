@@ -1,7 +1,0 @@
-dial_with_actions,action_seq
-<Builder> Mission has started.
-<Architect> put a row of 3 red blocks in the middle
-place red 1 1 0
-place red 0 1 0
-place red -1 1 0
-<Architect> Nice
