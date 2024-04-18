@@ -1,9 +1,0 @@
-dial_with_actions,action_seq
-"EMPTY
-<Builder> Mission has started.
-<Architect> add a pillar of 2 red blocks in the middle of the grid
-","place red 1 1 1
-place red 1 2 1
-"
-"<Architect> yep
-",

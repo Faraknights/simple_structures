@@ -1,0 +1,7 @@
+dial_with_actions,action_seq
+"<Architect> put a row of 2 green blocks along an edge starting from a corner
+","place green -5 1 5
+place green -5 1 4
+"
+"<Architect> nice job
+",

@@ -1,9 +1,0 @@
-dial_with_actions,action_seq
-"EMPTY
-<Builder> Mission has started.
-<Architect> make a horizontal line using 2 green blocks on an edge
-","place green -1 1 -5
-place green 0 1 -5
-"
-"<Architect> okay
-",

@@ -1,0 +1,15 @@
+dial_with_actions,action_seq
+"<Architect> add a green row with 10 blocks in the center of the grid
+","place green 5 1 0
+place green 4 1 0
+place green 3 1 0
+place green 2 1 0
+place green 1 1 0
+place green 0 1 0
+place green -1 1 0
+place green -2 1 0
+place green -3 1 0
+place green -4 1 0
+"
+"<Architect> yes
+",

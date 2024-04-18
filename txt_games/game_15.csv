@@ -1,0 +1,13 @@
+dial_with_actions,action_seq
+"<Architect> make a vertical line using 8 blue blocks in the middle
+","place blue -1 1 -1
+place blue -1 2 -1
+place blue -1 3 -1
+place blue -1 4 -1
+place blue -1 5 -1
+place blue -1 6 -1
+place blue -1 7 -1
+place blue -1 8 -1
+"
+"<Architect> great job
+",

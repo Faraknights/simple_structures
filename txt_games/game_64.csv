@@ -1,0 +1,10 @@
+dial_with_actions,action_seq
+"<Architect> place a tower of 5 yellow blocks in the middle of the grid
+","place yellow 0 1 0
+place yellow 0 2 0
+place yellow 0 3 0
+place yellow 0 4 0
+place yellow 0 5 0
+"
+"<Architect> great
+",

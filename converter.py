@@ -30,11 +30,6 @@ class Observation:
         self.WorldStates = WorldStates
 
 def process_json_file(json_file_path: str, output_folder: str):
-    data = {
-        'dial_with_actions': [],
-        'action_seq': []
-    }
-    df = pd.DataFrame(data)
 
     with open(json_file_path, 'r') as file:
         x = json.load(file)
@@ -55,8 +50,6 @@ def process_json_file(json_file_path: str, output_folder: str):
                 data = {'dial_with_actions': '', 'action_seq': ''}
                 new_messages = world.ChatHistory[len(lastChat):]
                 for message in new_messages:
-                    if i == 1:
-                        data["dial_with_actions"] += f"EMPTY\n<Builder> Mission has started.\n"
                     data["dial_with_actions"] += f"{message}\n"
             lastChat = world.ChatHistory.copy()
 
@@ -73,14 +66,7 @@ def process_json_file(json_file_path: str, output_folder: str):
     if data['dial_with_actions'] or data['action_seq']:
         data_rows.append(data)
 
-    new_df = pd.DataFrame(data_rows)
-    df = pd.concat([df, new_df], ignore_index=True)
-    print(df)
-    df = df[df.dial_with_actions != ""]
-        
-    output_file_path = os.path.join(output_folder, os.path.basename(json_file_path).replace('.json', ".csv"))
-    with open(output_file_path, "w") as f:
-        df.to_csv(f, index=False, lineterminator='\n')
+    return pd.DataFrame(data_rows)     
 
 def main():
     json_folder = "json_games"
@@ -90,9 +76,23 @@ def main():
         os.makedirs(txt_folder)
 
     json_files = [f for f in os.listdir(json_folder) if f.endswith('.json')]
+    data = {
+        'dial_with_actions': [],
+        'action_seq': []
+    }
+    df = pd.DataFrame(data)
     for json_file in json_files:
+        
         json_file_path = os.path.join(json_folder, json_file)
-        process_json_file(json_file_path, txt_folder)
+        new_df = process_json_file(json_file_path, txt_folder)
+        new_df.drop(2, inplace=True)
+        new_df.drop(0, inplace=True)
+        df = pd.concat([df, new_df], ignore_index=True)
+    
+    output_file_path = "games.csv"
+    with open(output_file_path, "w") as f:
+        df.to_csv(f, index=False, lineterminator='\n')
+        
 
 if __name__ == "__main__":
     main()

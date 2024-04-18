@@ -1,0 +1,9 @@
+dial_with_actions,action_seq
+"<Architect> put an orange pillar with 4 blocks on an edge of the grid
+","place orange -2 1 5
+place orange -2 2 5
+place orange -2 3 5
+place orange -2 4 5
+"
+"<Architect> fantastic
+",

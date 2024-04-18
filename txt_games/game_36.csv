@@ -1,0 +1,7 @@
+dial_with_actions,action_seq
+"<Architect> place 2 red blocks in a stack on an edge
+","place red 0 1 5
+place red 0 2 5
+"
+"<Architect> yes
+",

@@ -1,9 +1,0 @@
-dial_with_actions,action_seq
-"EMPTY
-<Builder> Mission has started.
-<Architect> make a blue row with 2 blocks in the center of the board
-","place blue 0 1 0
-place blue 0 1 -1
-"
-"<Architect> good job
-",

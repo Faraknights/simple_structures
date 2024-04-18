@@ -1,0 +1,14 @@
+dial_with_actions,action_seq
+"<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board
+","place orange -5 1 -5
+place orange -4 1 -4
+place orange -3 1 -3
+place orange -2 1 -2
+place orange -1 1 -1
+place orange 0 1 0
+place orange 1 1 1
+place orange 2 1 2
+place orange 3 1 3
+"
+"<Architect> Cool
+",

@@ -1,0 +1,8 @@
+dial_with_actions,action_seq
+"<Architect> create a green pillar with 3 blocks on an edge
+","place green 5 1 0
+place green 5 2 0
+place green 5 3 0
+"
+"<Architect> ok
+",

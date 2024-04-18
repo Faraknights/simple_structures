@@ -1,0 +1,9 @@
+dial_with_actions,action_seq
+"<Architect> Stack 4 blue blocks toward the middle
+","place blue 0 1 1
+place blue 0 2 1
+place blue 0 3 1
+place blue 0 4 1
+"
+"<Architect> Great
+",

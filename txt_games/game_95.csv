@@ -1,0 +1,9 @@
+dial_with_actions,action_seq
+"<Architect> place 4 green blocks in a diagonal line starting from a corner
+","place green -5 1 5
+place green -4 1 4
+place green -3 1 3
+place green -2 1 2
+"
+"<Architect> great
+",

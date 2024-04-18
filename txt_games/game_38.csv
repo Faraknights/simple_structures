@@ -1,0 +1,9 @@
+dial_with_actions,action_seq
+"<Architect> create a purple pillar with 4 blocks near an edge of the grid
+","place purple -1 1 -4
+place purple -1 2 -4
+place purple -1 3 -4
+place purple -1 4 -4
+"
+"<Architect> good
+",

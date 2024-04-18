@@ -1,0 +1,11 @@
+dial_with_actions,action_seq
+"<Architect> place 6 purple blocks in a diagonal line starting from a corner
+","place purple 5 1 5
+place purple 4 1 4
+place purple 3 1 3
+place purple 2 1 2
+place purple 1 1 1
+place purple 0 1 0
+"
+"<Architect> okay
+",

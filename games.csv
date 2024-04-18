@@ -1,0 +1,789 @@
+dial_with_actions,action_seq
+"<Architect> create a pillar of 2 yellow blocks on the corner
+","place yellow 5 1 -5
+place yellow 5 2 -5
+"
+"<Architect> put a pillar of 9 orange blocks 2 blocks away from an edge of the board
+","place orange -1 1 -3
+place orange -1 2 -3
+place orange -1 3 -3
+place orange -1 4 -3
+place orange -1 5 -3
+place orange -1 6 -3
+place orange -1 7 -3
+place orange -1 8 -3
+place orange -1 9 -3
+"
+"<Architect> put 8 purple blocks in a vertical line toward the middle of the board
+","place purple 1 1 0
+place purple 1 2 0
+place purple 1 3 0
+place purple 1 4 0
+place purple 1 5 0
+place purple 1 6 0
+place purple 1 7 0
+place purple 1 8 0
+"
+"<Architect> place a row of 7 yellow blocks toward the center of the grid
+","place yellow 0 1 3
+place yellow 0 1 2
+place yellow 0 1 1
+place yellow 0 1 0
+place yellow 0 1 -1
+place yellow 0 1 -2
+place yellow 0 1 -3
+"
+"<Architect> place 8 green blocks in a stack in a corner of the board
+","place green 5 1 5
+place green 5 2 5
+place green 5 3 5
+place green 5 4 5
+place green 5 5 5
+place green 5 6 5
+place green 5 7 5
+place green 5 8 5
+"
+"<Architect> build a diagonal line using 2 orange blocks starting from a corner
+","place orange 5 1 -5
+place orange 4 1 -4
+"
+"<Architect> create a red row with 6 blocks toward the center of the grid
+","place red -2 1 1
+place red -1 1 1
+place red 0 1 1
+place red 1 1 1
+place red 2 1 1
+place red 3 1 1
+"
+"<Architect> add a red pillar with 7 blocks toward the middle
+","place red 0 1 0
+place red 0 2 0
+place red 0 3 0
+place red 0 4 0
+place red 0 5 0
+place red 0 6 0
+place red 0 7 0
+"
+"<Architect> make a vertical line using 8 blue blocks in the middle
+","place blue -1 1 -1
+place blue -1 2 -1
+place blue -1 3 -1
+place blue -1 4 -1
+place blue -1 5 -1
+place blue -1 6 -1
+place blue -1 7 -1
+place blue -1 8 -1
+"
+"<Architect> put 3 red blocks in a stack toward the center of the board
+","place red 0 1 0
+place red 0 2 0
+place red 0 3 0
+"
+"<Architect> build a vertical line using 7 orange blocks in the center
+","place orange 0 1 -1
+place orange 0 2 -1
+place orange 0 3 -1
+place orange 0 4 -1
+place orange 0 5 -1
+place orange 0 6 -1
+place orange 0 7 -1
+"
+"<Architect> build a tower of 7 blue blocks on a corner of the board
+","place blue -5 1 -5
+place blue -5 2 -5
+place blue -5 3 -5
+place blue -5 4 -5
+place blue -5 5 -5
+place blue -5 6 -5
+place blue -5 7 -5
+"
+"<Architect> put a row of 3 red blocks in the middle
+","place red 1 1 0
+place red 0 1 0
+place red -1 1 0
+"
+"<Architect> make an orange pillar by stacking 7 blocks toward the middle
+","place orange -1 1 0
+place orange -1 2 0
+place orange -1 3 0
+place orange -1 4 0
+place orange -1 5 0
+place orange -1 6 0
+place orange -1 7 0
+"
+"<Architect> Stack 4 blue blocks toward the middle
+","place blue 0 1 1
+place blue 0 2 1
+place blue 0 3 1
+place blue 0 4 1
+"
+"<Architect> put an orange tower with 4 blocks in the middle of the grid
+","place orange -1 1 0
+place orange -1 2 0
+place orange -1 3 0
+place orange -1 4 0
+"
+"<Architect> create a horizontal line using 7 yellow blocks 2 blocks away from an edge
+","place yellow 3 1 -2
+place yellow 3 1 -1
+place yellow 3 1 0
+place yellow 3 1 1
+place yellow 3 1 2
+place yellow 3 1 3
+place yellow 3 1 4
+"
+"<Architect> create a tower of 6 yellow blocks toward the center
+","place yellow 0 1 0
+place yellow 0 2 0
+place yellow 0 3 0
+place yellow 0 4 0
+place yellow 0 5 0
+place yellow 0 6 0
+"
+"<Architect> put a row of 6 purple blocks along an edge of the board
+","place purple -3 1 -5
+place purple -2 1 -5
+place purple -1 1 -5
+place purple 0 1 -5
+place purple 1 1 -5
+place purple 2 1 -5
+"
+"<Architect> create a tower of 10 yellow blocks in the center of the board
+","place yellow 0 1 1
+place yellow 0 2 1
+place yellow 0 3 1
+place yellow 0 4 1
+place yellow 0 5 1
+place yellow 0 6 1
+place yellow 0 7 1
+place yellow 0 8 1
+place yellow 0 9 1
+place yellow 0 10 1
+"
+"<Architect> put 7 blue blocks in a horizontal line on an edge
+","place blue 5 1 -2
+place blue 5 1 -1
+place blue 5 1 0
+place blue 5 1 1
+place blue 5 1 2
+place blue 5 1 3
+place blue 5 1 4
+"
+"<Architect> put 5 green blocks in a horizontal line 2 spaces away from an edge of the grid
+","place green -3 1 2
+place green -3 1 1
+place green -3 1 0
+place green -3 1 -1
+place green -3 1 -2
+"
+"<Architect> add 6 orange blocks in a diagonal line in the middle of the board
+","place orange -2 1 -3
+place orange -1 1 -2
+place orange 0 1 -1
+place orange 1 1 0
+place orange 2 1 1
+place orange 3 1 2
+"
+"<Architect> put a pillar of 5 purple blocks 1 space away from an edge of the board
+","place purple -4 1 1
+place purple -4 2 1
+place purple -4 3 1
+place purple -4 4 1
+place purple -4 5 1
+"
+"<Architect> build a green pillar with 2 blocks toward the middle of the board
+","place green 1 1 0
+place green 1 2 0
+"
+"<Architect> add a green vertical line by stacking 5 blocks toward the center of the board
+","place green 1 1 0
+place green 1 2 0
+place green 1 3 0
+place green 1 4 0
+place green 1 5 0
+"
+"<Architect> create a tower of 6 red blocks near an edge of the board
+","place red -5 1 2
+place red -5 2 2
+place red -5 3 2
+place red -5 4 2
+place red -5 5 2
+place red -5 6 2
+"
+"<Architect> make a diagonal line using 5 green blocks toward the middle of the board
+","place green 2 1 2
+place green 1 1 1
+place green 0 1 0
+place green -1 1 -1
+place green -2 1 -2
+"
+"<Architect> place 5 red blocks in a vertical line in the center of the grid
+","place red 0 1 0
+place red 0 2 0
+place red 0 3 0
+place red 0 4 0
+place red 0 5 0
+"
+"<Architect> make a horizontal line using 9 red blocks along an edge starting from a corner of the board
+","place red -5 1 -5
+place red -5 1 -4
+place red -5 1 -3
+place red -5 1 -2
+place red -5 1 -1
+place red -5 1 0
+place red -5 1 1
+place red -5 1 2
+place red -5 1 3
+"
+"<Architect> create a tower of 9 orange blocks against an edge of the grid
+","place orange -5 1 1
+place orange -5 2 1
+place orange -5 3 1
+place orange -5 4 1
+place orange -5 5 1
+place orange -5 6 1
+place orange -5 7 1
+place orange -5 8 1
+place orange -5 9 1
+"
+"<Architect> place 2 red blocks in a stack on an edge
+","place red 0 1 5
+place red 0 2 5
+"
+"<Architect> put a pillar of 5 green blocks in the center of the board
+","place green 0 1 0
+place green 0 2 0
+place green 0 3 0
+place green 0 4 0
+place green 0 5 0
+"
+"<Architect> create a purple pillar with 4 blocks near an edge of the grid
+","place purple -1 1 -4
+place purple -1 2 -4
+place purple -1 3 -4
+place purple -1 4 -4
+"
+"<Architect> make a horizontal line using 2 green blocks on an edge
+","place green -1 1 -5
+place green 0 1 -5
+"
+"<Architect> put an orange pillar with 8 blocks in the center of the board
+","place orange 0 1 0
+place orange 0 2 0
+place orange 0 3 0
+place orange 0 4 0
+place orange 0 5 0
+place orange 0 6 0
+place orange 0 7 0
+place orange 0 8 0
+"
+"<Architect> build a purple pillar by stacking 9 blocks toward the center of the board
+","place purple 0 1 1
+place purple 0 2 1
+place purple 0 3 1
+place purple 0 4 1
+place purple 0 5 1
+place purple 0 6 1
+place purple 0 7 1
+place purple 0 8 1
+place purple 0 9 1
+"
+"<Architect> make a pillar of 2 purple blocks in the center of the grid
+","place purple 1 1 -1
+place purple 1 2 -1
+"
+"<Architect> build a red tower by stacking 4 blocks on an edge
+","place red 1 1 5
+place red 1 2 5
+place red 1 3 5
+place red 1 4 5
+"
+"<Architect> place a red row with 6 blocks on an edge of the board
+","place red 1 1 5
+place red 0 1 5
+place red -1 1 5
+place red -2 1 5
+place red -3 1 5
+place red -4 1 5
+"
+"<Architect> make an orange row with 6 blocks along an edge of the board
+","place orange 5 1 -2
+place orange 5 1 -1
+place orange 5 1 0
+place orange 5 1 1
+place orange 5 1 2
+place orange 5 1 3
+"
+"<Architect> create a pillar of 3 red blocks in the middle of the board
+","place red 1 1 0
+place red 1 2 0
+place red 1 3 0
+"
+"<Architect> put 3 red blocks in a horizontal line toward the middle
+","place red 0 1 1
+place red 1 1 1
+place red 2 1 1
+"
+"<Architect> add a pillar of 2 red blocks in the middle of the grid
+","place red 1 1 1
+place red 1 2 1
+"
+"<Architect> place a row of 6 green blocks starting from a corner of the board
+","place green 5 1 -5
+place green 4 1 -5
+place green 3 1 -5
+place green 2 1 -5
+place green 1 1 -5
+place green 0 1 -5
+"
+"<Architect> put a yellow tower with 7 blocks in the middle
+","place yellow 0 1 0
+place yellow 0 2 0
+place yellow 0 3 0
+place yellow 0 4 0
+place yellow 0 5 0
+place yellow 0 6 0
+place yellow 0 7 0
+"
+"<Architect> make a diagonal line using 9 orange blocks starting from a corner of the board
+","place orange -5 1 -5
+place orange -4 1 -4
+place orange -3 1 -3
+place orange -2 1 -2
+place orange -1 1 -1
+place orange 0 1 0
+place orange 1 1 1
+place orange 2 1 2
+place orange 3 1 3
+"
+"<Architect> put a row of 2 green blocks along an edge starting from a corner
+","place green -5 1 5
+place green -5 1 4
+"
+"<Architect> build an orange pillar with 4 blocks in the center of the grid
+","place orange 1 1 -1
+place orange 1 2 -1
+place orange 1 3 -1
+place orange 1 4 -1
+"
+"<Architect> place a red tower with 7 blocks toward the middle
+","place red -1 1 0
+place red -1 2 0
+place red -1 3 0
+place red -1 4 0
+place red -1 5 0
+place red -1 6 0
+place red -1 7 0
+"
+"<Architect> make a pillar of 10 purple blocks in the corner
+","place purple -5 1 -5
+place purple -5 2 -5
+place purple -5 3 -5
+place purple -5 4 -5
+place purple -5 5 -5
+place purple -5 6 -5
+place purple -5 7 -5
+place purple -5 8 -5
+place purple -5 9 -5
+place purple -5 10 -5
+"
+"<Architect> add a row of 8 green blocks toward the middle
+","place green 0 1 -1
+place green 0 2 -1
+place green 0 3 -1
+place green 0 4 -1
+place green 0 5 -1
+place green 0 6 -1
+place green 0 7 -1
+place green 0 8 -1
+"
+"<Architect> create a green pillar with 8 blocks toward the middle
+","place green 1 1 0
+place green 1 2 0
+place green 1 3 0
+place green 1 4 0
+place green 1 5 0
+place green 1 6 0
+place green 1 7 0
+place green 1 8 0
+"
+"<Architect> make a row of 2 yellow blocks toward the middle of the board
+","place yellow 0 1 -1
+place yellow 0 2 -1
+"
+"<Architect> make a tower of 8 green blocks in the middle of the board
+","place green -1 1 1
+place green -1 2 1
+place green -1 3 1
+place green -1 4 1
+place green -1 5 1
+place green -1 6 1
+place green -1 7 1
+place green -1 8 1
+"
+"<Architect> put a row of 5 blue blocks toward the center of the grid
+","place blue -1 1 1
+place blue -1 1 0
+place blue -1 1 -1
+place blue -1 1 -2
+place blue -1 1 -3
+"
+"<Architect> create a tower of 7 green blocks in a corner of the board
+","place green 5 1 -5
+place green 5 2 -5
+place green 5 3 -5
+place green 5 4 -5
+place green 5 5 -5
+place green 5 6 -5
+place green 5 7 -5
+"
+"<Architect> add 3 blue blocks in a horizontal line in the center of the grid
+","place blue 1 1 0
+place blue 0 1 0
+place blue -1 1 0
+"
+"<Architect> place 6 purple blocks in a diagonal line starting from a corner
+","place purple 5 1 5
+place purple 4 1 4
+place purple 3 1 3
+place purple 2 1 2
+place purple 1 1 1
+place purple 0 1 0
+"
+"<Architect> add a tower of 9 green blocks toward the center of the board
+","place green 0 1 -1
+place green 0 2 -1
+place green 0 3 -1
+place green 0 4 -1
+place green 0 5 -1
+place green 0 6 -1
+place green 0 7 -1
+place green 0 8 -1
+place green 0 9 -1
+"
+"<Architect> make a blue row with 2 blocks in the center of the board
+","place blue 0 1 0
+place blue 0 1 -1
+"
+"<Architect> build a blue vertical line by stacking 3 blocks 2 blocks away from an edge of the board
+","place blue -1 1 -3
+place blue -1 2 -3
+place blue -1 3 -3
+"
+"<Architect> place a tower of 5 yellow blocks in the middle of the grid
+","place yellow 0 1 0
+place yellow 0 2 0
+place yellow 0 3 0
+place yellow 0 4 0
+place yellow 0 5 0
+"
+"<Architect> place a pillar of 9 purple blocks near an edge
+","place purple 4 1 -1
+place purple 4 2 -1
+place purple 4 3 -1
+place purple 4 4 -1
+place purple 4 5 -1
+place purple 4 6 -1
+place purple 4 7 -1
+place purple 4 8 -1
+"
+"<Architect> Stack 10 red blocks toward the middle of the grid
+","place red 1 1 -1
+place red 1 2 -1
+place red 1 3 -1
+place red 1 4 -1
+place red 1 5 -1
+place red 1 6 -1
+place red 1 7 -1
+place red 1 8 -1
+place red 1 9 -1
+place red 1 10 -1
+"
+"<Architect> add a green row with 10 blocks in the center of the grid
+","place green 5 1 0
+place green 4 1 0
+place green 3 1 0
+place green 2 1 0
+place green 1 1 0
+place green 0 1 0
+place green -1 1 0
+place green -2 1 0
+place green -3 1 0
+place green -4 1 0
+"
+"<Architect> build a pillar of 7 red blocks toward the middle
+","place red -1 1 -1
+place red -1 2 -1
+place red -1 3 -1
+place red -1 4 -1
+place red -1 5 -1
+place red -1 6 -1
+place red -1 7 -1
+"
+"<Architect> create a row of 6 orange blocks toward the middle
+","place orange -2 1 -1
+place orange -1 1 -1
+place orange 0 1 -1
+place orange 1 1 -1
+place orange 2 1 -1
+place orange 3 1 -1
+"
+"<Architect> put a tower of 7 red blocks on a corner
+","place red 5 1 -5
+place red 5 2 -5
+place red 5 3 -5
+place red 5 4 -5
+place red 5 5 -5
+place red 5 6 -5
+place red 5 7 -5
+"
+"<Architect> put 8 yellow blocks in a stack in the middle
+","place yellow 0 1 -1
+place yellow 0 2 -1
+place yellow 0 3 -1
+place yellow 0 4 -1
+place yellow 0 5 -1
+place yellow 0 6 -1
+place yellow 0 7 -1
+place yellow 0 8 -1
+"
+"<Architect> add 9 blue blocks in a diagonal line at the middle of the board
+","place blue 0 1 0
+place blue 1 1 1
+place blue 2 1 2
+place blue 3 1 3
+place blue 4 1 4
+place blue -1 1 -1
+place blue -2 1 -2
+place blue -3 1 -3
+place blue -4 1 -4
+"
+"<Architect> place 2 blue blocks in a stack on a corner of the grid
+","place blue 5 1 -5
+place blue 5 2 -5
+"
+"<Architect> place 5 yellow blocks in a stack in the center
+","place yellow 0 1 0
+place yellow 0 2 0
+place yellow 0 3 0
+place yellow 0 4 0
+place yellow 0 5 0
+"
+"<Architect> put an orange pillar with 4 blocks on an edge of the grid
+","place orange -2 1 5
+place orange -2 2 5
+place orange -2 3 5
+place orange -2 4 5
+"
+"<Architect> Stack 7 red blocks toward the center of the board
+","place red 0 1 1
+place red 0 2 1
+place red 0 3 1
+place red 0 4 1
+place red 0 5 1
+place red 0 6 1
+place red 0 7 1
+"
+"<Architect> build a tower of 3 blue blocks in the corner
+","place blue -5 1 -5
+place blue -5 2 -5
+place blue -5 3 -5
+"
+"<Architect> add an orange tower by stacking 6 blocks in a corner of the board
+","place orange -5 1 5
+place orange -5 2 5
+place orange -5 3 5
+place orange -5 4 5
+place orange -5 5 5
+place orange -5 6 5
+"
+"<Architect> add a blue vertical line by stacking 9 blocks in a corner of the grid.
+","place blue -5 1 -5
+place blue -5 2 -5
+place blue -5 3 -5
+place blue -5 4 -5
+place blue -5 5 -5
+place blue -5 6 -5
+place blue -5 7 -5
+place blue -5 8 -5
+place blue -5 9 -5
+"
+"<Architect> add a tower of 3 red blocks against an edge of the board
+","place red -1 1 -5
+place red -1 2 -5
+place red -1 3 -5
+"
+"<Architect> build a purple row with 8 blocks on an edge
+","place purple -5 1 3
+place purple -5 1 2
+place purple -5 1 1
+place purple -5 1 0
+place purple -5 1 -1
+place purple -5 1 -2
+place purple -5 1 -3
+place purple -5 1 -4
+"
+"<Architect> put a green tower with 10 blocks on a corner
+","place green -5 1 5
+place green -5 2 5
+place green -5 3 5
+place green -5 4 5
+place green -5 5 5
+place green -5 6 5
+place green -5 7 5
+place green -5 8 5
+place green -5 9 5
+place green -5 10 5
+"
+"<Architect> put a row of 8 red blocks along an edge starting from a corner of the board
+","place red 5 1 -5
+place red 5 1 -4
+place red 5 1 -3
+place red 5 1 -2
+place red 5 1 -1
+place red 5 1 0
+place red 5 1 1
+place red 5 1 2
+"
+"<Architect> make a diagonal line using 4 blue blocks toward the middle of the board
+","place blue 2 1 -1
+place blue 1 1 0
+place blue 0 1 1
+place blue -1 1 2
+"
+"<Architect> place a pillar of 7 green blocks toward the middle
+","place green -1 1 -1
+place green -1 2 -1
+place green -1 3 -1
+place green -1 4 -1
+place green -1 5 -1
+place green -1 6 -1
+place green -1 7 -1
+"
+"<Architect> create a green pillar with 3 blocks on an edge
+","place green 5 1 0
+place green 5 2 0
+place green 5 3 0
+"
+"<Architect> build a purple pillar by stacking 7 blocks against an edge of the board
+","place purple 5 1 2
+place purple 5 2 2
+place purple 5 3 2
+place purple 5 4 2
+place purple 5 5 2
+place purple 5 6 2
+place purple 5 7 2
+"
+"<Architect> place a row of 8 orange blocks toward the center
+","place orange 0 1 4
+place orange 0 1 3
+place orange 0 1 2
+place orange 0 1 1
+place orange 0 1 0
+place orange 0 1 -1
+place orange 0 1 -2
+place orange 0 1 -3
+"
+"<Architect> add a row of 6 green blocks in the center of the board
+","place green -1 1 2
+place green -1 1 1
+place green -1 1 0
+place green -1 1 -1
+place green -1 1 -2
+place green -1 1 -3
+"
+"<Architect> create an orange row with 5 blocks in the center of the grid
+","place orange -2 1 -1
+place orange -1 1 -1
+place orange 0 1 -1
+place orange 1 1 -1
+place orange 2 1 -1
+"
+"<Architect> place a blue row with 7 blocks near an edge
+","place blue 4 1 -3
+place blue 4 1 -2
+place blue 4 1 -1
+place blue 4 1 0
+place blue 4 1 1
+place blue 4 1 2
+place blue 4 1 3
+"
+"<Architect> place 6 orange blocks in a vertical line in the middle
+","place orange 0 1 0
+place orange 0 2 0
+place orange 0 3 0
+place orange 0 4 0
+place orange 0 5 0
+place orange 0 6 0
+"
+"<Architect> create a purple tower with 9 blocks toward the middle of the board
+","place purple 0 1 -1
+place purple 0 2 -1
+place purple 0 3 -1
+place purple 0 4 -1
+place purple 0 5 -1
+place purple 0 6 -1
+place purple 0 7 -1
+place purple 0 8 -1
+place purple 0 9 -1
+"
+"<Architect> put 8 red blocks in a horizontal line 2 spaces away from an edge of the grid
+","place red 0 1 3
+place red 1 1 3
+place red -1 1 3
+place red 2 1 3
+place red -2 1 3
+place red 3 1 3
+place red -3 1 3
+place red 4 1 3
+"
+"<Architect> make a blue pillar with 2 blocks toward the middle of the grid
+","place blue 1 1 -1
+place blue 1 2 -1
+"
+"<Architect> make a yellow tower with 5 blocks in the corner
+","place yellow 5 1 5
+place yellow 5 2 5
+place yellow 5 3 5
+place yellow 5 4 5
+place yellow 5 5 5
+"
+"<Architect> make a tower of 7 yellow blocks on an edge of the grid
+","place yellow -1 1 -4
+place yellow -1 2 -4
+place yellow -1 3 -4
+place yellow -1 4 -4
+place yellow -1 5 -4
+place yellow -1 6 -4
+place yellow -1 7 -4
+"
+"<Architect> place 4 green blocks in a diagonal line starting from a corner
+","place green -5 1 5
+place green -4 1 4
+place green -3 1 3
+place green -2 1 2
+"
+"<Architect> place 6 purple blocks in a horizontal line toward the middle of the grid
+","place blue 1 1 2
+place blue 1 1 1
+place blue 1 1 0
+place blue 1 1 -1
+place blue 1 1 -2
+place blue 1 1 -3
+"
+"<Architect> put an orange pillar with 5 blocks in the center of the grid
+","place orange 1 1 0
+place orange 1 2 0
+place orange 1 3 0
+place orange 1 4 0
+place orange 1 5 0
+"
+"<Architect> create an orange pillar with 2 blocks in the middle
+","place orange -1 1 -1
+place orange -1 2 -1
+"
+"<Architect> build a tower of 3 purple blocks in the center of the board
+","place purple 1 1 0
+place purple 1 2 0
+place purple 1 3 0
+"

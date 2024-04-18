@@ -1,0 +1,8 @@
+dial_with_actions,action_seq
+"<Architect> add 3 blue blocks in a horizontal line in the center of the grid
+","place blue 1 1 0
+place blue 0 1 0
+place blue -1 1 0
+"
+"<Architect> Good job
+",

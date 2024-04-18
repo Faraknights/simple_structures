@@ -1,0 +1,12 @@
+dial_with_actions,action_seq
+"<Architect> build a purple pillar by stacking 7 blocks against an edge of the board
+","place purple 5 1 2
+place purple 5 2 2
+place purple 5 3 2
+place purple 5 4 2
+place purple 5 5 2
+place purple 5 6 2
+place purple 5 7 2
+"
+"<Architect> okay
+",
