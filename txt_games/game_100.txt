@@ -1,11 +1,11 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> place a row of 7 yellow blocks toward the center of the grid
-4 : [Builder puts down a yellow block at X:0 Y:1 Z:3]
-6 : [Builder puts down a yellow block at X:0 Y:1 Z:2]
-8 : [Builder puts down a yellow block at X:0 Y:1 Z:1]
-10 : [Builder puts down a yellow block at X:0 Y:1 Z:0]
-12 : [Builder puts down a yellow block at X:0 Y:1 Z:-1]
-14 : [Builder puts down a yellow block at X:0 Y:1 Z:-2]
-16 : [Builder puts down a yellow block at X:0 Y:1 Z:-3]
-17 : <Architect> Perfect
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> place a row of 7 yellow blocks toward the center of the grid
+place yellow 0 1 3
+place yellow 0 1 2
+place yellow 0 1 1
+place yellow 0 1 0
+place yellow 0 1 -1
+place yellow 0 1 -2
+place yellow 0 1 -3
+<Architect> Perfect

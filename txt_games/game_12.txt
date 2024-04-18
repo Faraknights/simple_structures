@@ -1,6 +1,6 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> build a diagonal line using 2 orange blocks starting from a corner
-4 : [Builder puts down a orange block at X:5 Y:1 Z:-5]
-6 : [Builder puts down a orange block at X:4 Y:1 Z:-4]
-7 : <Architect> Great
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> build a diagonal line using 2 orange blocks starting from a corner
+place orange 5 1 -5
+place orange 4 1 -4
+<Architect> Great

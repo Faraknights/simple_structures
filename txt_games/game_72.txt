@@ -1,6 +1,6 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> place 2 blue blocks in a stack on a corner of the grid
-4 : [Builder puts down a blue block at X:5 Y:1 Z:-5]
-6 : [Builder puts down a blue block at X:5 Y:2 Z:-5]
-7 : <Architect> great
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> place 2 blue blocks in a stack on a corner of the grid
+place blue 5 1 -5
+place blue 5 2 -5
+<Architect> great

@@ -1,7 +1,7 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> put 3 red blocks in a stack at the center of the board
-4 : [Builder puts down a red block at X:0 Y:1 Z:0]
-6 : [Builder puts down a red block at X:0 Y:2 Z:0]
-8 : [Builder puts down a red block at X:0 Y:3 Z:0]
-9 : <Architect> Ok
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> put 3 red blocks in a stack toward the center of the board
+place red 0 1 0
+place red 0 2 0
+place red 0 3 0
+<Architect> Ok

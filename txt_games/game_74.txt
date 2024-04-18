@@ -1,8 +1,8 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> put an orange pillar with 4 blocks on an edge of the grid
-4 : [Builder puts down a orange block at X:-2 Y:1 Z:5]
-6 : [Builder puts down a orange block at X:-2 Y:2 Z:5]
-8 : [Builder puts down a orange block at X:-2 Y:3 Z:5]
-10 : [Builder puts down a orange block at X:-2 Y:4 Z:5]
-11 : <Architect> fantastic
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> put an orange pillar with 4 blocks on an edge of the grid
+place orange -2 1 5
+place orange -2 2 5
+place orange -2 3 5
+place orange -2 4 5
+<Architect> fantastic

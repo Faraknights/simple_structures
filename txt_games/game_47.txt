@@ -1,6 +1,6 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> add a pillar of 2 red blocks at the middle of the grid
-4 : [Builder puts down a red block at X:1 Y:1 Z:1]
-6 : [Builder puts down a red block at X:1 Y:2 Z:1]
-7 : <Architect> yep
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> add a pillar of 2 red blocks in the middle of the grid
+place red 1 1 1
+place red 1 2 1
+<Architect> yep

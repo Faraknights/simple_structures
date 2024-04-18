@@ -1,6 +1,6 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> make a row of 2 yellow blocks at the middle of the board
-4 : [Builder puts down a yellow block at X:0 Y:1 Z:-1]
-6 : [Builder puts down a yellow block at X:0 Y:2 Z:-1]
-7 : <Architect> yes
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> make a row of 2 yellow blocks toward the middle of the board
+place yellow 0 1 -1
+place yellow 0 2 -1
+<Architect> yes

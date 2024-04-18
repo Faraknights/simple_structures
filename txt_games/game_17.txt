@@ -1,11 +1,11 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> build a vertical line using 7 orange blocks in the center
-4 : [Builder puts down a orange block at X:0 Y:1 Z:-1]
-6 : [Builder puts down a orange block at X:0 Y:2 Z:-1]
-8 : [Builder puts down a orange block at X:0 Y:3 Z:-1]
-10 : [Builder puts down a orange block at X:0 Y:4 Z:-1]
-12 : [Builder puts down a orange block at X:0 Y:5 Z:-1]
-14 : [Builder puts down a orange block at X:0 Y:6 Z:-1]
-16 : [Builder puts down a orange block at X:0 Y:7 Z:-1]
-17 : <Architect> perfect
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> build a vertical line using 7 orange blocks in the center
+place orange 0 1 -1
+place orange 0 2 -1
+place orange 0 3 -1
+place orange 0 4 -1
+place orange 0 5 -1
+place orange 0 6 -1
+place orange 0 7 -1
+<Architect> perfect

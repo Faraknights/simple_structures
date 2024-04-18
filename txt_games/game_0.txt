@@ -1,6 +1,6 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> create a pillar of 2 yellow blocks on the corner
-4 : [Builder puts down a yellow block at X:5 Y:1 Z:-5]
-6 : [Builder puts down a yellow block at X:5 Y:2 Z:-5]
-7 : <Architect> great
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> create a pillar of 2 yellow blocks on the corner
+place yellow 5 1 -5
+place yellow 5 2 -5
+<Architect> great

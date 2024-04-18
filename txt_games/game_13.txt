@@ -1,10 +1,10 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> create a red row with 6 blocks toward the center of the grid
-4 : [Builder puts down a red block at X:-2 Y:1 Z:1]
-6 : [Builder puts down a red block at X:-1 Y:1 Z:1]
-8 : [Builder puts down a red block at X:0 Y:1 Z:1]
-10 : [Builder puts down a red block at X:1 Y:1 Z:1]
-12 : [Builder puts down a red block at X:2 Y:1 Z:1]
-14 : [Builder puts down a red block at X:3 Y:1 Z:1]
-15 : <Architect> Yep
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> create a red row with 6 blocks toward the center of the grid
+place red -2 1 1
+place red -1 1 1
+place red 0 1 1
+place red 1 1 1
+place red 2 1 1
+place red 3 1 1
+<Architect> Yep

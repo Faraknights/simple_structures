@@ -38,7 +38,7 @@ def process_json_file(json_file_path: str, output_folder: str):
 
     BUILDER_NAME = "Builder_B1"
     ARCHITECT_NAME = "Architect_A1"
-    textFile = f"0 : {BUILDER_NAME} : Mission has started .\n"
+    textFile = f"dial_with_actions,action_seq\n"
     lastChat = []
     lastBlocksState = set()
 
@@ -48,7 +48,8 @@ def process_json_file(json_file_path: str, output_folder: str):
             new_messages = world.ChatHistory[len(lastChat):]
             for message in new_messages:
                 text = message.replace("<architect> ", f"{ARCHITECT_NAME} : ").replace("<builder> ", f"{BUILDER_NAME} : ")
-                textFile += f"{i} : {text}\n"
+                text = message.replace("Mission 0 started", f"<Builder> Mission has started.")
+                textFile += f"{text}\n"
                 i += 1
             lastChat = world.ChatHistory.copy()
 
@@ -57,10 +58,10 @@ def process_json_file(json_file_path: str, output_folder: str):
             elements_removed = lastBlocksState - currentBlocksState
             elements_added = currentBlocksState - lastBlocksState
             for element in elements_removed:
-                textFile += f"{i} : [Builder picks up a {element.Colour.lower()} block at X:{element.X} Y:{element.Y} Z:{element.Z}]\n"
+                textFile += f"pick {element.X} {element.Y} {element.Z}\n"
             i += 1
             for element in elements_added:
-                textFile += f"{i} : [Builder puts down a {element.Colour.lower()} block at X:{element.X} Y:{element.Y} Z:{element.Z}]\n"
+                textFile += f"place {element.Colour.lower()} {element.X} {element.Y} {element.Z}\n"
             i += 1
             lastBlocksState = currentBlocksState
 

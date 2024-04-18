@@ -1,7 +1,7 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> create a green pillar with 3 blocks on an edge
-4 : [Builder puts down a green block at X:5 Y:1 Z:0]
-6 : [Builder puts down a green block at X:5 Y:2 Z:0]
-8 : [Builder puts down a green block at X:5 Y:3 Z:0]
-9 : <Architect> ok
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> create a green pillar with 3 blocks on an edge
+place green 5 1 0
+place green 5 2 0
+place green 5 3 0
+<Architect> ok

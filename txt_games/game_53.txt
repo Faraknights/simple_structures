@@ -1,14 +1,14 @@
-0 : Builder_B1 : Mission has started .
-1 : Mission 0 started
-2 : <Architect> make a pillar of 10 purple blocks in the corner
-4 : [Builder puts down a purple block at X:-5 Y:1 Z:-5]
-6 : [Builder puts down a purple block at X:-5 Y:2 Z:-5]
-8 : [Builder puts down a purple block at X:-5 Y:3 Z:-5]
-10 : [Builder puts down a purple block at X:-5 Y:4 Z:-5]
-12 : [Builder puts down a purple block at X:-5 Y:5 Z:-5]
-14 : [Builder puts down a purple block at X:-5 Y:6 Z:-5]
-16 : [Builder puts down a purple block at X:-5 Y:7 Z:-5]
-18 : [Builder puts down a purple block at X:-5 Y:8 Z:-5]
-20 : [Builder puts down a purple block at X:-5 Y:9 Z:-5]
-22 : [Builder puts down a purple block at X:-5 Y:10 Z:-5]
-23 : <Architect> cool
+dial_with_actions,action_seq
+<Builder> Mission has started.
+<Architect> make a pillar of 10 purple blocks in the corner
+place purple -5 1 -5
+place purple -5 2 -5
+place purple -5 3 -5
+place purple -5 4 -5
+place purple -5 5 -5
+place purple -5 6 -5
+place purple -5 7 -5
+place purple -5 8 -5
+place purple -5 9 -5
+place purple -5 10 -5
+<Architect> cool
